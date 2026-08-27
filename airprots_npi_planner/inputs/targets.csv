@@ -1,0 +1,4 @@
+airport_code,trip_type,npi_quality,time_npi_quality
+CDG,PU,Good,Moderate
+CDG,DO,Good,Moderate
+LHR,PU,Good,Moderate

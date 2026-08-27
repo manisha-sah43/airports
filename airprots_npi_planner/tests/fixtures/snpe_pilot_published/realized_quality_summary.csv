@@ -1,0 +1,11 @@
+airport_code,trip_type,n_dropped,planned_NPI_quality,realized_NPI_quality,planned_time_NPI_quality,realized_time_NPI_quality,planned_sample_coverage,realized_sample_coverage,planned_g_coverage,realized_g_coverage,tier_changed
+LHR,PU,390,Good,Good,Moderate,Poor,0.8103,0.7862,0.8503,0.8246,YES
+LGW,PU,25,Good,Moderate,Moderate,Moderate,0.8041,0.8041,0.7007,0.6973,YES
+STN,PU,0,Good,Good,Moderate,Moderate,0.7608,0.7608,0.701,0.701,no
+LTN,PU,12,Good,Moderate,Moderate,Moderate,0.8498,0.8498,0.7012,0.6998,YES
+JNB,PU,0,Good,Good,Moderate,Moderate,0.9003,0.9003,0.6174,0.6174,no
+WAW,PU,0,Moderate,Moderate,Poor,Poor,0.8046,0.8046,0.6071,0.6071,no
+CPT,PU,0,Good,Good,Moderate,Moderate,0.8591,0.8591,0.7007,0.7007,no
+CDG,DO,0,Good,Good,Moderate,Moderate,0.8688,0.8688,0.7031,0.7031,no
+ORY,DO,0,Good,Good,Moderate,Moderate,0.9157,0.9157,0.6251,0.6251,no
+WAW,DO,0,Moderate,Moderate,Poor,Poor,0.8392,0.8392,0.6007,0.6007,no

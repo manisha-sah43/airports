@@ -1,0 +1,4327 @@
+{
+  "6Y8": {
+    "city_id": 1571,
+    "city_name": "Traverse City",
+    "mega_region": "US & Canada"
+  },
+  "AAX": {
+    "city_id": 1858,
+    "city_name": "Araxa",
+    "mega_region": "LatAm"
+  },
+  "ABE": {
+    "city_id": 317,
+    "city_name": "Lehigh Valley",
+    "mega_region": "US & Canada"
+  },
+  "ABI": {
+    "city_id": 460,
+    "city_name": "Abilene",
+    "mega_region": "US & Canada"
+  },
+  "ABJ": {
+    "city_id": 1467,
+    "city_name": "Abidjan",
+    "mega_region": "EMEA"
+  },
+  "ABQ": {
+    "city_id": 185,
+    "city_name": "Albuquerque",
+    "mega_region": "US & Canada"
+  },
+  "ABR": {
+    "city_id": 261,
+    "city_name": "Sioux Falls",
+    "mega_region": "US & Canada"
+  },
+  "ABV": {
+    "city_id": 1081,
+    "city_name": "Abuja",
+    "mega_region": "EMEA"
+  },
+  "ABY": {
+    "city_id": 1602,
+    "city_name": "South Georgia",
+    "mega_region": "US & Canada"
+  },
+  "ACC": {
+    "city_id": 1257,
+    "city_name": "Accra",
+    "mega_region": "EMEA"
+  },
+  "ACK": {
+    "city_id": 6,
+    "city_name": "Boston",
+    "mega_region": "US & Canada"
+  },
+  "ACT": {
+    "city_id": 257,
+    "city_name": "Waco",
+    "mega_region": "US & Canada"
+  },
+  "ACV": {
+    "city_id": 41,
+    "city_name": "Sacramento",
+    "mega_region": "US & Canada"
+  },
+  "ACY": {
+    "city_id": 198,
+    "city_name": "New Jersey",
+    "mega_region": "US & Canada"
+  },
+  "ADA": {
+    "city_id": 2238,
+    "city_name": "Adana",
+    "mega_region": "EMEA"
+  },
+  "ADB": {
+    "city_id": 2492,
+    "city_name": "Izmir",
+    "mega_region": "EMEA"
+  },
+  "ADL": {
+    "city_id": 223,
+    "city_name": "Adelaide",
+    "mega_region": "APAC"
+  },
+  "AEP": {
+    "city_id": 805,
+    "city_name": "Buenos Aires",
+    "mega_region": "LatAm"
+  },
+  "AGC": {
+    "city_id": 45,
+    "city_name": "Pittsburgh",
+    "mega_region": "US & Canada"
+  },
+  "AGP": {
+    "city_id": 580,
+    "city_name": "Malaga",
+    "mega_region": "EMEA"
+  },
+  "AGS": {
+    "city_id": 323,
+    "city_name": "Augusta",
+    "mega_region": "US & Canada"
+  },
+  "AGU": {
+    "city_id": 1149,
+    "city_name": "Aguascalientes",
+    "mega_region": "LatAm"
+  },
+  "AHB": {
+    "city_id": 2094,
+    "city_name": "Southern Saudi",
+    "mega_region": "EMEA"
+  },
+  "AJU": {
+    "city_id": 1313,
+    "city_name": "Aracaju",
+    "mega_region": "LatAm"
+  },
+  "AKL": {
+    "city_id": 131,
+    "city_name": "Auckland",
+    "mega_region": "APAC"
+  },
+  "ALB": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "ALC": {
+    "city_id": 2076,
+    "city_name": "Alicante",
+    "mega_region": "EMEA"
+  },
+  "ALO": {
+    "city_id": 1567,
+    "city_name": "Waterloo-Cedar Falls",
+    "mega_region": "US & Canada"
+  },
+  "AMA": {
+    "city_id": 256,
+    "city_name": "Amarillo",
+    "mega_region": "US & Canada"
+  },
+  "AMD": {
+    "city_id": 475,
+    "city_name": "Ahmedabad",
+    "mega_region": "APAC"
+  },
+  "AMM": {
+    "city_id": 623,
+    "city_name": "Amman",
+    "mega_region": "EMEA"
+  },
+  "AMS": {
+    "city_id": 34,
+    "city_name": "Amsterdam",
+    "mega_region": "EMEA"
+  },
+  "ANC": {
+    "city_id": 287,
+    "city_name": "Anchorage",
+    "mega_region": "US & Canada"
+  },
+  "ANF": {
+    "city_id": 1492,
+    "city_name": "Antofagasta",
+    "mega_region": "LatAm"
+  },
+  "APN": {
+    "city_id": 1571,
+    "city_name": "Traverse City",
+    "mega_region": "US & Canada"
+  },
+  "AQP": {
+    "city_id": 1409,
+    "city_name": "Arequipa",
+    "mega_region": "LatAm"
+  },
+  "ARI": {
+    "city_id": 1500,
+    "city_name": "Arica",
+    "mega_region": "LatAm"
+  },
+  "ARN": {
+    "city_id": 36,
+    "city_name": "Stockholm",
+    "mega_region": "EMEA"
+  },
+  "ART": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "ARU": {
+    "city_id": 1632,
+    "city_name": "Aracatuba",
+    "mega_region": "LatAm"
+  },
+  "ASE": {
+    "city_id": 1416,
+    "city_name": "Rockies",
+    "mega_region": "US & Canada"
+  },
+  "ASP": {
+    "city_id": 2006,
+    "city_name": "Alice Springs",
+    "mega_region": "APAC"
+  },
+  "ASR": {
+    "city_id": 2864,
+    "city_name": "Kayseri",
+    "mega_region": "EMEA"
+  },
+  "ASU": {
+    "city_id": 1506,
+    "city_name": "Asuncion",
+    "mega_region": "LatAm"
+  },
+  "ATH": {
+    "city_id": 539,
+    "city_name": "Athens, GR",
+    "mega_region": "EMEA"
+  },
+  "ATL": {
+    "city_id": 23,
+    "city_name": "Atlanta",
+    "mega_region": "US & Canada"
+  },
+  "ATW": {
+    "city_id": 382,
+    "city_name": "Green Bay",
+    "mega_region": "US & Canada"
+  },
+  "AUH": {
+    "city_id": 196,
+    "city_name": "Abu Dhabi",
+    "mega_region": "EMEA"
+  },
+  "AUS": {
+    "city_id": 4,
+    "city_name": "Austin",
+    "mega_region": "US & Canada"
+  },
+  "AVL": {
+    "city_id": 345,
+    "city_name": "Asheville, NC",
+    "mega_region": "US & Canada"
+  },
+  "AVP": {
+    "city_id": 332,
+    "city_name": "Wilkes-Barre Scranton",
+    "mega_region": "US & Canada"
+  },
+  "AVV": {
+    "city_id": 456,
+    "city_name": "Geelong",
+    "mega_region": "APAC"
+  },
+  "AXM": {
+    "city_id": 1069,
+    "city_name": "Armenia",
+    "mega_region": "LatAm"
+  },
+  "AYT": {
+    "city_id": 1337,
+    "city_name": "Antalya",
+    "mega_region": "EMEA"
+  },
+  "AZA": {
+    "city_id": 26,
+    "city_name": "Phoenix",
+    "mega_region": "US & Canada"
+  },
+  "AZO": {
+    "city_id": 388,
+    "city_name": "Kalamazoo",
+    "mega_region": "US & Canada"
+  },
+  "BAH": {
+    "city_id": 598,
+    "city_name": "Manama",
+    "mega_region": "EMEA"
+  },
+  "BAQ": {
+    "city_id": 609,
+    "city_name": "Barranquilla",
+    "mega_region": "LatAm"
+  },
+  "BAT": {
+    "city_id": 1751,
+    "city_name": "Barretos",
+    "mega_region": "LatAm"
+  },
+  "BAU": {
+    "city_id": 1388,
+    "city_name": "Bauru",
+    "mega_region": "LatAm"
+  },
+  "BBA": {
+    "city_id": 1752,
+    "city_name": "Coyhaique",
+    "mega_region": "LatAm"
+  },
+  "BBI": {
+    "city_id": 773,
+    "city_name": "Bhubaneswar",
+    "mega_region": "APAC"
+  },
+  "BBU": {
+    "city_id": 603,
+    "city_name": "Bucharest",
+    "mega_region": "EMEA"
+  },
+  "BCN": {
+    "city_id": 230,
+    "city_name": "Barcelona",
+    "mega_region": "EMEA"
+  },
+  "BDL": {
+    "city_id": 227,
+    "city_name": "Connecticut",
+    "mega_region": "US & Canada"
+  },
+  "BDQ": {
+    "city_id": 775,
+    "city_name": "Vadodara",
+    "mega_region": "APAC"
+  },
+  "BEL": {
+    "city_id": 1269,
+    "city_name": "Belem",
+    "mega_region": "LatAm"
+  },
+  "BER": {
+    "city_id": 38,
+    "city_name": "Berlin",
+    "mega_region": "EMEA"
+  },
+  "BEY": {
+    "city_id": 346,
+    "city_name": "Beirut",
+    "mega_region": "EMEA"
+  },
+  "BFH": {
+    "city_id": 789,
+    "city_name": "Curitiba",
+    "mega_region": "LatAm"
+  },
+  "BFL": {
+    "city_id": 220,
+    "city_name": "Bakersfield",
+    "mega_region": "US & Canada"
+  },
+  "BFS": {
+    "city_id": 615,
+    "city_name": "Belfast",
+    "mega_region": "EMEA"
+  },
+  "BGA": {
+    "city_id": 1013,
+    "city_name": "Bucaramanga",
+    "mega_region": "LatAm"
+  },
+  "BGM": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "BGO": {
+    "city_id": 2315,
+    "city_name": "Bergen",
+    "mega_region": "EMEA"
+  },
+  "BGR": {
+    "city_id": 651,
+    "city_name": "Greater Maine",
+    "mega_region": "US & Canada"
+  },
+  "BGY": {
+    "city_id": 32,
+    "city_name": "Milan",
+    "mega_region": "EMEA"
+  },
+  "BHD": {
+    "city_id": 615,
+    "city_name": "Belfast",
+    "mega_region": "EMEA"
+  },
+  "BHI": {
+    "city_id": 1894,
+    "city_name": "Bahia Blanca",
+    "mega_region": "LatAm"
+  },
+  "BHM": {
+    "city_id": 284,
+    "city_name": "Birmingham, AL",
+    "mega_region": "US & Canada"
+  },
+  "BHO": {
+    "city_id": 957,
+    "city_name": "Bhopal",
+    "mega_region": "APAC"
+  },
+  "BHX": {
+    "city_id": 244,
+    "city_name": "Birmingham, UK",
+    "mega_region": "EMEA"
+  },
+  "BIL": {
+    "city_id": 291,
+    "city_name": "Billings",
+    "mega_region": "US & Canada"
+  },
+  "BIO": {
+    "city_id": 579,
+    "city_name": "Bilbao",
+    "mega_region": "EMEA"
+  },
+  "BIS": {
+    "city_id": 1576,
+    "city_name": "Bismarck",
+    "mega_region": "US & Canada"
+  },
+  "BJI": {
+    "city_id": 361,
+    "city_name": "Duluth",
+    "mega_region": "US & Canada"
+  },
+  "BJP": {
+    "city_id": 1634,
+    "city_name": "Braganca Paulista",
+    "mega_region": "LatAm"
+  },
+  "BJV": {
+    "city_id": 2493,
+    "city_name": "Mugla",
+    "mega_region": "EMEA"
+  },
+  "BJX": {
+    "city_id": 929,
+    "city_name": "Leon",
+    "mega_region": "LatAm"
+  },
+  "BKG": {
+    "city_id": 378,
+    "city_name": "Springfield, MO",
+    "mega_region": "US & Canada"
+  },
+  "BKL": {
+    "city_id": 142,
+    "city_name": "Cleveland",
+    "mega_region": "US & Canada"
+  },
+  "BLB": {
+    "city_id": 206,
+    "city_name": "Panama City, PA",
+    "mega_region": "LatAm"
+  },
+  "BLI": {
+    "city_id": 432,
+    "city_name": "Bellingham",
+    "mega_region": "US & Canada"
+  },
+  "BLQ": {
+    "city_id": 1916,
+    "city_name": "Bologna",
+    "mega_region": "EMEA"
+  },
+  "BLR": {
+    "city_id": 130,
+    "city_name": "Bangalore",
+    "mega_region": "APAC"
+  },
+  "BLV": {
+    "city_id": 189,
+    "city_name": "St Louis",
+    "mega_region": "US & Canada"
+  },
+  "BMA": {
+    "city_id": 36,
+    "city_name": "Stockholm",
+    "mega_region": "EMEA"
+  },
+  "BMI": {
+    "city_id": 373,
+    "city_name": "Peoria, IL",
+    "mega_region": "US & Canada"
+  },
+  "BNA": {
+    "city_id": 188,
+    "city_name": "Nashville",
+    "mega_region": "US & Canada"
+  },
+  "BNE": {
+    "city_id": 221,
+    "city_name": "Brisbane",
+    "mega_region": "APAC"
+  },
+  "BNI": {
+    "city_id": 1802,
+    "city_name": "Benin City",
+    "mega_region": "EMEA"
+  },
+  "BNK": {
+    "city_id": 813,
+    "city_name": "Byron Bay",
+    "mega_region": "APAC"
+  },
+  "BNU": {
+    "city_id": 1291,
+    "city_name": "Blumenau",
+    "mega_region": "LatAm"
+  },
+  "BOD": {
+    "city_id": 264,
+    "city_name": "Bordeaux",
+    "mega_region": "EMEA"
+  },
+  "BOG": {
+    "city_id": 146,
+    "city_name": "Bogota",
+    "mega_region": "LatAm"
+  },
+  "BOI": {
+    "city_id": 262,
+    "city_name": "Boise",
+    "mega_region": "US & Canada"
+  },
+  "BOM": {
+    "city_id": 215,
+    "city_name": "Mumbai",
+    "mega_region": "APAC"
+  },
+  "BOS": {
+    "city_id": 6,
+    "city_name": "Boston",
+    "mega_region": "US & Canada"
+  },
+  "BPS": {
+    "city_id": 1613,
+    "city_name": "Porto Seguro",
+    "mega_region": "LatAm"
+  },
+  "BPT": {
+    "city_id": 622,
+    "city_name": "Beaumont",
+    "mega_region": "US & Canada"
+  },
+  "BQK": {
+    "city_id": 649,
+    "city_name": "Coastal Georgia",
+    "mega_region": "US & Canada"
+  },
+  "BRC": {
+    "city_id": 1163,
+    "city_name": "Bariloche",
+    "mega_region": "LatAm"
+  },
+  "BRD": {
+    "city_id": 361,
+    "city_name": "Duluth",
+    "mega_region": "US & Canada"
+  },
+  "BRO": {
+    "city_id": 258,
+    "city_name": "Rio Grande Valley",
+    "mega_region": "US & Canada"
+  },
+  "BRQ": {
+    "city_id": 1536,
+    "city_name": "Brno",
+    "mega_region": "EMEA"
+  },
+  "BRS": {
+    "city_id": 608,
+    "city_name": "South West, UK",
+    "mega_region": "EMEA"
+  },
+  "BRU": {
+    "city_id": 37,
+    "city_name": "Brussels",
+    "mega_region": "EMEA"
+  },
+  "BSB": {
+    "city_id": 574,
+    "city_name": "Brasilia",
+    "mega_region": "LatAm"
+  },
+  "BSL": {
+    "city_id": 601,
+    "city_name": "Basel",
+    "mega_region": "EMEA"
+  },
+  "BTR": {
+    "city_id": 274,
+    "city_name": "Baton Rouge",
+    "mega_region": "US & Canada"
+  },
+  "BTS": {
+    "city_id": 627,
+    "city_name": "Bratislava",
+    "mega_region": "EMEA"
+  },
+  "BTV": {
+    "city_id": 282,
+    "city_name": "Vermont",
+    "mega_region": "US & Canada"
+  },
+  "BUF": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "BUR": {
+    "city_id": 12,
+    "city_name": "Los Angeles",
+    "mega_region": "US & Canada"
+  },
+  "BVB": {
+    "city_id": 1283,
+    "city_name": "Boa Vista",
+    "mega_region": "LatAm"
+  },
+  "BWI": {
+    "city_id": 35,
+    "city_name": "Baltimore-Maryland",
+    "mega_region": "US & Canada"
+  },
+  "BZN": {
+    "city_id": 659,
+    "city_name": "Bozeman",
+    "mega_region": "US & Canada"
+  },
+  "CAC": {
+    "city_id": 1295,
+    "city_name": "Cascavel",
+    "mega_region": "LatAm"
+  },
+  "CAE": {
+    "city_id": 272,
+    "city_name": "Columbia",
+    "mega_region": "US & Canada"
+  },
+  "CAG": {
+    "city_id": 2005,
+    "city_name": "Cagliari",
+    "mega_region": "EMEA"
+  },
+  "CAI": {
+    "city_id": 531,
+    "city_name": "Cairo",
+    "mega_region": "EMEA"
+  },
+  "CAK": {
+    "city_id": 306,
+    "city_name": "Akron",
+    "mega_region": "US & Canada"
+  },
+  "CAU": {
+    "city_id": 1562,
+    "city_name": "Caruaru",
+    "mega_region": "LatAm"
+  },
+  "CBB": {
+    "city_id": 1482,
+    "city_name": "Cochabamba",
+    "mega_region": "LatAm"
+  },
+  "CBR": {
+    "city_id": 301,
+    "city_name": "Canberra",
+    "mega_region": "APAC"
+  },
+  "CBX": {
+    "city_id": 21,
+    "city_name": "San Diego",
+    "mega_region": "US & Canada"
+  },
+  "CCP": {
+    "city_id": 1357,
+    "city_name": "Concepcion",
+    "mega_region": "LatAm"
+  },
+  "CCU": {
+    "city_id": 476,
+    "city_name": "Kolkata",
+    "mega_region": "APAC"
+  },
+  "CDG": {
+    "city_id": 3,
+    "city_name": "Paris",
+    "mega_region": "EMEA"
+  },
+  "CEC": {
+    "city_id": 41,
+    "city_name": "Sacramento",
+    "mega_region": "US & Canada"
+  },
+  "CEN": {
+    "city_id": 1385,
+    "city_name": "Ciudad Obregon",
+    "mega_region": "LatAm"
+  },
+  "CFB": {
+    "city_id": 1379,
+    "city_name": "Cabo Frio",
+    "mega_region": "LatAm"
+  },
+  "CFU": {
+    "city_id": 2858,
+    "city_name": "Corfu",
+    "mega_region": "EMEA"
+  },
+  "CGB": {
+    "city_id": 1325,
+    "city_name": "Cuiaba",
+    "mega_region": "LatAm"
+  },
+  "CGH": {
+    "city_id": 458,
+    "city_name": "Sao Paulo",
+    "mega_region": "LatAm"
+  },
+  "CGN": {
+    "city_id": 471,
+    "city_name": "Cologne",
+    "mega_region": "EMEA"
+  },
+  "CGP": {
+    "city_id": 1875,
+    "city_name": "Chittagong",
+    "mega_region": "APAC"
+  },
+  "CGR": {
+    "city_id": 1327,
+    "city_name": "Campo Grande",
+    "mega_region": "LatAm"
+  },
+  "CHA": {
+    "city_id": 279,
+    "city_name": "Chattanooga",
+    "mega_region": "US & Canada"
+  },
+  "CHC": {
+    "city_id": 300,
+    "city_name": "Christchurch",
+    "mega_region": "APAC"
+  },
+  "CHO": {
+    "city_id": 441,
+    "city_name": "Charlottesville-Harrisonburg",
+    "mega_region": "US & Canada"
+  },
+  "CHS": {
+    "city_id": 234,
+    "city_name": "Charleston",
+    "mega_region": "US & Canada"
+  },
+  "CIA": {
+    "city_id": 54,
+    "city_name": "Rome",
+    "mega_region": "EMEA"
+  },
+  "CIC": {
+    "city_id": 41,
+    "city_name": "Sacramento",
+    "mega_region": "US & Canada"
+  },
+  "CID": {
+    "city_id": 1265,
+    "city_name": "Cedar Rapids",
+    "mega_region": "US & Canada"
+  },
+  "CIU": {
+    "city_id": 1571,
+    "city_name": "Traverse City",
+    "mega_region": "US & Canada"
+  },
+  "CIX": {
+    "city_id": 1511,
+    "city_name": "Chiclayo",
+    "mega_region": "LatAm"
+  },
+  "CJB": {
+    "city_id": 777,
+    "city_name": "Coimbatore",
+    "mega_region": "APAC"
+  },
+  "CJC": {
+    "city_id": 1503,
+    "city_name": "Calama",
+    "mega_region": "LatAm"
+  },
+  "CJS": {
+    "city_id": 1383,
+    "city_name": "Ciudad Juarez",
+    "mega_region": "LatAm"
+  },
+  "CKB": {
+    "city_id": 448,
+    "city_name": "Eastern WV",
+    "mega_region": "US & Canada"
+  },
+  "CLD": {
+    "city_id": 21,
+    "city_name": "San Diego",
+    "mega_region": "US & Canada"
+  },
+  "CLE": {
+    "city_id": 142,
+    "city_name": "Cleveland",
+    "mega_region": "US & Canada"
+  },
+  "CLJ": {
+    "city_id": 1097,
+    "city_name": "Cluj",
+    "mega_region": "EMEA"
+  },
+  "CLL": {
+    "city_id": 255,
+    "city_name": "College Station",
+    "mega_region": "US & Canada"
+  },
+  "CLO": {
+    "city_id": 201,
+    "city_name": "Cali",
+    "mega_region": "LatAm"
+  },
+  "CLQ": {
+    "city_id": 1437,
+    "city_name": "Colima",
+    "mega_region": "LatAm"
+  },
+  "CLT": {
+    "city_id": 22,
+    "city_name": "Charlotte",
+    "mega_region": "US & Canada"
+  },
+  "CLV": {
+    "city_id": 2088,
+    "city_name": "Caldas Novas",
+    "mega_region": "LatAm"
+  },
+  "CMB": {
+    "city_id": 478,
+    "city_name": "Colombo",
+    "mega_region": "APAC"
+  },
+  "CMH": {
+    "city_id": 139,
+    "city_name": "Columbus",
+    "mega_region": "US & Canada"
+  },
+  "CMI": {
+    "city_id": 371,
+    "city_name": "Champaign",
+    "mega_region": "US & Canada"
+  },
+  "CMN": {
+    "city_id": 604,
+    "city_name": "Casablanca",
+    "mega_region": "EMEA"
+  },
+  "CMX": {
+    "city_id": 1571,
+    "city_name": "Traverse City",
+    "mega_region": "US & Canada"
+  },
+  "CNF": {
+    "city_id": 493,
+    "city_name": "Belo Horizonte",
+    "mega_region": "LatAm"
+  },
+  "CNM": {
+    "city_id": 2366,
+    "city_name": "Roswell",
+    "mega_region": "US & Canada"
+  },
+  "CNQ": {
+    "city_id": 1784,
+    "city_name": "Corrientes",
+    "mega_region": "LatAm"
+  },
+  "CNS": {
+    "city_id": 638,
+    "city_name": "Cairns",
+    "mega_region": "APAC"
+  },
+  "COD": {
+    "city_id": 492,
+    "city_name": "Wyoming",
+    "mega_region": "US & Canada"
+  },
+  "COK": {
+    "city_id": 586,
+    "city_name": "Kochi",
+    "mega_region": "APAC"
+  },
+  "COR": {
+    "city_id": 1027,
+    "city_name": "Cordoba, AR",
+    "mega_region": "LatAm"
+  },
+  "COS": {
+    "city_id": 1413,
+    "city_name": "Colorado Springs",
+    "mega_region": "US & Canada"
+  },
+  "COV": {
+    "city_id": 2238,
+    "city_name": "Adana",
+    "mega_region": "EMEA"
+  },
+  "CPE": {
+    "city_id": 1430,
+    "city_name": "Campeche",
+    "mega_region": "LatAm"
+  },
+  "CPH": {
+    "city_id": 536,
+    "city_name": "Copenhagen",
+    "mega_region": "EMEA"
+  },
+  "CPO": {
+    "city_id": 1504,
+    "city_name": "Copiapo",
+    "mega_region": "LatAm"
+  },
+  "CPQ": {
+    "city_id": 793,
+    "city_name": "Campinas",
+    "mega_region": "LatAm"
+  },
+  "CPR": {
+    "city_id": 492,
+    "city_name": "Wyoming",
+    "mega_region": "US & Canada"
+  },
+  "CPT": {
+    "city_id": 137,
+    "city_name": "Cape Town",
+    "mega_region": "EMEA"
+  },
+  "CPV": {
+    "city_id": 1563,
+    "city_name": "Campina Grande",
+    "mega_region": "LatAm"
+  },
+  "CRD": {
+    "city_id": 1795,
+    "city_name": "Comodoro Rivadavia",
+    "mega_region": "LatAm"
+  },
+  "CRL": {
+    "city_id": 37,
+    "city_name": "Brussels",
+    "mega_region": "EMEA"
+  },
+  "CRP": {
+    "city_id": 252,
+    "city_name": "Corpus Christi",
+    "mega_region": "US & Canada"
+  },
+  "CRW": {
+    "city_id": 316,
+    "city_name": "Western WV",
+    "mega_region": "US & Canada"
+  },
+  "CSG": {
+    "city_id": 439,
+    "city_name": "Columbus, GA",
+    "mega_region": "US & Canada"
+  },
+  "CSL": {
+    "city_id": 1760,
+    "city_name": "Los Cabos",
+    "mega_region": "LatAm"
+  },
+  "CTA": {
+    "city_id": 2002,
+    "city_name": "Catania",
+    "mega_region": "EMEA"
+  },
+  "CTC": {
+    "city_id": 1897,
+    "city_name": "San Fernando del Valle de Catamarca",
+    "mega_region": "LatAm"
+  },
+  "CTG": {
+    "city_id": 1017,
+    "city_name": "Cartagena",
+    "mega_region": "LatAm"
+  },
+  "CUC": {
+    "city_id": 1041,
+    "city_name": "Cucuta",
+    "mega_region": "LatAm"
+  },
+  "CUL": {
+    "city_id": 1441,
+    "city_name": "Culiacan",
+    "mega_region": "LatAm"
+  },
+  "CUN": {
+    "city_id": 1434,
+    "city_name": "Cancun",
+    "mega_region": "LatAm"
+  },
+  "CUU": {
+    "city_id": 1384,
+    "city_name": "Chihuahua",
+    "mega_region": "LatAm"
+  },
+  "CUZ": {
+    "city_id": 1509,
+    "city_name": "Cusco",
+    "mega_region": "LatAm"
+  },
+  "CVG": {
+    "city_id": 141,
+    "city_name": "Cincinnati",
+    "mega_region": "US & Canada"
+  },
+  "CVM": {
+    "city_id": 1452,
+    "city_name": "Ciudad Victoria",
+    "mega_region": "LatAm"
+  },
+  "CVN": {
+    "city_id": 2366,
+    "city_name": "Roswell",
+    "mega_region": "US & Canada"
+  },
+  "CWA": {
+    "city_id": 382,
+    "city_name": "Green Bay",
+    "mega_region": "US & Canada"
+  },
+  "CWB": {
+    "city_id": 789,
+    "city_name": "Curitiba",
+    "mega_region": "LatAm"
+  },
+  "CWL": {
+    "city_id": 618,
+    "city_name": "Cardiff",
+    "mega_region": "EMEA"
+  },
+  "CXJ": {
+    "city_id": 1395,
+    "city_name": "Caxias do Sul",
+    "mega_region": "LatAm"
+  },
+  "CYS": {
+    "city_id": 492,
+    "city_name": "Wyoming",
+    "mega_region": "US & Canada"
+  },
+  "CYW": {
+    "city_id": 1462,
+    "city_name": "Celaya",
+    "mega_region": "LatAm"
+  },
+  "CZU": {
+    "city_id": 1045,
+    "city_name": "Sincelejo",
+    "mega_region": "LatAm"
+  },
+  "DAB": {
+    "city_id": 333,
+    "city_name": "Central Atlantic Coast, FL",
+    "mega_region": "US & Canada"
+  },
+  "DAC": {
+    "city_id": 1107,
+    "city_name": "Dhaka",
+    "mega_region": "APAC"
+  },
+  "DAL": {
+    "city_id": 25,
+    "city_name": "Dallas",
+    "mega_region": "US & Canada"
+  },
+  "DAR": {
+    "city_id": 1253,
+    "city_name": "Dar Es Salaam",
+    "mega_region": "EMEA"
+  },
+  "DAY": {
+    "city_id": 297,
+    "city_name": "Dayton",
+    "mega_region": "US & Canada"
+  },
+  "DBQ": {
+    "city_id": 1568,
+    "city_name": "Dubuque",
+    "mega_region": "US & Canada"
+  },
+  "DBV": {
+    "city_id": 1261,
+    "city_name": "Dubrovnik",
+    "mega_region": "EMEA"
+  },
+  "DCA": {
+    "city_id": 8,
+    "city_name": "Washington D.C.",
+    "mega_region": "US & Canada"
+  },
+  "DEL": {
+    "city_id": 197,
+    "city_name": "Delhi NCR",
+    "mega_region": "APAC"
+  },
+  "DEN": {
+    "city_id": 24,
+    "city_name": "Denver",
+    "mega_region": "US & Canada"
+  },
+  "DFW": {
+    "city_id": 25,
+    "city_name": "Dallas",
+    "mega_region": "US & Canada"
+  },
+  "DGO": {
+    "city_id": 1425,
+    "city_name": "Durango",
+    "mega_region": "LatAm"
+  },
+  "DHN": {
+    "city_id": 1690,
+    "city_name": "Dothan",
+    "mega_region": "US & Canada"
+  },
+  "DIA": {
+    "city_id": 202,
+    "city_name": "Doha",
+    "mega_region": "EMEA"
+  },
+  "DIK": {
+    "city_id": 1971,
+    "city_name": "Dickinson",
+    "mega_region": "US & Canada"
+  },
+  "DLH": {
+    "city_id": 361,
+    "city_name": "Duluth",
+    "mega_region": "US & Canada"
+  },
+  "DLM": {
+    "city_id": 2493,
+    "city_name": "Mugla",
+    "mega_region": "EMEA"
+  },
+  "DMM": {
+    "city_id": 599,
+    "city_name": "Eastern Province, KSA",
+    "mega_region": "EMEA"
+  },
+  "DNK": {
+    "city_id": 1427,
+    "city_name": "Dnipro",
+    "mega_region": "EMEA"
+  },
+  "DOH": {
+    "city_id": 202,
+    "city_name": "Doha",
+    "mega_region": "EMEA"
+  },
+  "DPO": {
+    "city_id": 1902,
+    "city_name": "Launceston",
+    "mega_region": "APAC"
+  },
+  "DRO": {
+    "city_id": 1416,
+    "city_name": "Rockies",
+    "mega_region": "US & Canada"
+  },
+  "DRT": {
+    "city_id": 1680,
+    "city_name": "Eagle Pass",
+    "mega_region": "US & Canada"
+  },
+  "DRW": {
+    "city_id": 629,
+    "city_name": "Darwin",
+    "mega_region": "APAC"
+  },
+  "DSM": {
+    "city_id": 303,
+    "city_name": "Des Moines",
+    "mega_region": "US & Canada"
+  },
+  "DTN": {
+    "city_id": 434,
+    "city_name": "Shreveport-Alexandria",
+    "mega_region": "US & Canada"
+  },
+  "DTW": {
+    "city_id": 50,
+    "city_name": "Detroit",
+    "mega_region": "US & Canada"
+  },
+  "DUB": {
+    "city_id": 210,
+    "city_name": "Dublin",
+    "mega_region": "EMEA"
+  },
+  "DUD": {
+    "city_id": 1877,
+    "city_name": "Dunedin",
+    "mega_region": "APAC"
+  },
+  "DUR": {
+    "city_id": 193,
+    "city_name": "Durban",
+    "mega_region": "EMEA"
+  },
+  "DUS": {
+    "city_id": 470,
+    "city_name": "Dusseldorf",
+    "mega_region": "EMEA"
+  },
+  "DWC": {
+    "city_id": 138,
+    "city_name": "Dubai",
+    "mega_region": "EMEA"
+  },
+  "DXB": {
+    "city_id": 138,
+    "city_name": "Dubai",
+    "mega_region": "EMEA"
+  },
+  "EAT": {
+    "city_id": 1033,
+    "city_name": "Eastern Washington",
+    "mega_region": "US & Canada"
+  },
+  "EAU": {
+    "city_id": 1574,
+    "city_name": "Eau Claire",
+    "mega_region": "US & Canada"
+  },
+  "EBB": {
+    "city_id": 1255,
+    "city_name": "Kampala",
+    "mega_region": "EMEA"
+  },
+  "ECP": {
+    "city_id": 593,
+    "city_name": "Panama City, FL",
+    "mega_region": "US & Canada"
+  },
+  "EDI": {
+    "city_id": 607,
+    "city_name": "Edinburgh",
+    "mega_region": "EMEA"
+  },
+  "EGE": {
+    "city_id": 1416,
+    "city_name": "Rockies",
+    "mega_region": "US & Canada"
+  },
+  "EIN": {
+    "city_id": 216,
+    "city_name": "Rotterdam",
+    "mega_region": "EMEA"
+  },
+  "ELM": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "ELP": {
+    "city_id": 254,
+    "city_name": "El Paso",
+    "mega_region": "US & Canada"
+  },
+  "ELQ": {
+    "city_id": 1879,
+    "city_name": "Qassim",
+    "mega_region": "EMEA"
+  },
+  "ELS": {
+    "city_id": 1805,
+    "city_name": "East London",
+    "mega_region": "EMEA"
+  },
+  "EMA": {
+    "city_id": 1101,
+    "city_name": "Leicester",
+    "mega_region": "EMEA"
+  },
+  "ENA": {
+    "city_id": 287,
+    "city_name": "Anchorage",
+    "mega_region": "US & Canada"
+  },
+  "EOH": {
+    "city_id": 588,
+    "city_name": "Medellin",
+    "mega_region": "LatAm"
+  },
+  "EPA": {
+    "city_id": 805,
+    "city_name": "Buenos Aires",
+    "mega_region": "LatAm"
+  },
+  "ERI": {
+    "city_id": 322,
+    "city_name": "Erie",
+    "mega_region": "US & Canada"
+  },
+  "ESB": {
+    "city_id": 632,
+    "city_name": "Ankara",
+    "mega_region": "EMEA"
+  },
+  "ESC": {
+    "city_id": 1571,
+    "city_name": "Traverse City",
+    "mega_region": "US & Canada"
+  },
+  "EUG": {
+    "city_id": 1918,
+    "city_name": "Eugene, OR",
+    "mega_region": "US & Canada"
+  },
+  "EVV": {
+    "city_id": 369,
+    "city_name": "Evansville, IN",
+    "mega_region": "US & Canada"
+  },
+  "EWN": {
+    "city_id": 652,
+    "city_name": "Eastern North Carolina",
+    "mega_region": "US & Canada"
+  },
+  "EWR": {
+    "city_id": 198,
+    "city_name": "New Jersey",
+    "mega_region": "US & Canada"
+  },
+  "EYW": {
+    "city_id": 597,
+    "city_name": "Florida Keys",
+    "mega_region": "US & Canada"
+  },
+  "EZE": {
+    "city_id": 805,
+    "city_name": "Buenos Aires",
+    "mega_region": "LatAm"
+  },
+  "FAI": {
+    "city_id": 621,
+    "city_name": "Fairbanks",
+    "mega_region": "US & Canada"
+  },
+  "FAO": {
+    "city_id": 1159,
+    "city_name": "Algarve",
+    "mega_region": "EMEA"
+  },
+  "FAR": {
+    "city_id": 351,
+    "city_name": "Fargo",
+    "mega_region": "US & Canada"
+  },
+  "FAT": {
+    "city_id": 212,
+    "city_name": "Fresno",
+    "mega_region": "US & Canada"
+  },
+  "FAY": {
+    "city_id": 293,
+    "city_name": "Fayetteville, NC",
+    "mega_region": "US & Canada"
+  },
+  "FCA": {
+    "city_id": 658,
+    "city_name": "Missoula",
+    "mega_region": "US & Canada"
+  },
+  "FCO": {
+    "city_id": 54,
+    "city_name": "Rome",
+    "mega_region": "EMEA"
+  },
+  "FDO": {
+    "city_id": 1518,
+    "city_name": "San Fernando",
+    "mega_region": "LatAm"
+  },
+  "FLG": {
+    "city_id": 431,
+    "city_name": "Flagstaff",
+    "mega_region": "US & Canada"
+  },
+  "FLL": {
+    "city_id": 14,
+    "city_name": "Miami",
+    "mega_region": "US & Canada"
+  },
+  "FLN": {
+    "city_id": 797,
+    "city_name": "Florianopolis",
+    "mega_region": "LatAm"
+  },
+  "FLO": {
+    "city_id": 1759,
+    "city_name": "Florence, SC",
+    "mega_region": "US & Canada"
+  },
+  "FLR": {
+    "city_id": 95,
+    "city_name": "Florence",
+    "mega_region": "EMEA"
+  },
+  "FMA": {
+    "city_id": 1896,
+    "city_name": "Formosa",
+    "mega_region": "LatAm"
+  },
+  "FMN": {
+    "city_id": 993,
+    "city_name": "Farmington",
+    "mega_region": "US & Canada"
+  },
+  "FNC": {
+    "city_id": 1466,
+    "city_name": "Funchal",
+    "mega_region": "EMEA"
+  },
+  "FNL": {
+    "city_id": 1414,
+    "city_name": "Fort Collins",
+    "mega_region": "US & Canada"
+  },
+  "FNT": {
+    "city_id": 349,
+    "city_name": "Flint",
+    "mega_region": "US & Canada"
+  },
+  "FOR": {
+    "city_id": 801,
+    "city_name": "Fortaleza",
+    "mega_region": "LatAm"
+  },
+  "FRA": {
+    "city_id": 330,
+    "city_name": "Frankfurt",
+    "mega_region": "EMEA"
+  },
+  "FRC": {
+    "city_id": 1367,
+    "city_name": "Franca",
+    "mega_region": "LatAm"
+  },
+  "FSD": {
+    "city_id": 261,
+    "city_name": "Sioux Falls",
+    "mega_region": "US & Canada"
+  },
+  "FSM": {
+    "city_id": 436,
+    "city_name": "Fayetteville, AR",
+    "mega_region": "US & Canada"
+  },
+  "FWA": {
+    "city_id": 370,
+    "city_name": "Fort Wayne",
+    "mega_region": "US & Canada"
+  },
+  "GAU": {
+    "city_id": 755,
+    "city_name": "Guwahati",
+    "mega_region": "APAC"
+  },
+  "GCC": {
+    "city_id": 492,
+    "city_name": "Wyoming",
+    "mega_region": "US & Canada"
+  },
+  "GDL": {
+    "city_id": 204,
+    "city_name": "Guadalajara",
+    "mega_region": "LatAm"
+  },
+  "GDN": {
+    "city_id": 653,
+    "city_name": "Trojmiasto",
+    "mega_region": "EMEA"
+  },
+  "GEG": {
+    "city_id": 269,
+    "city_name": "Spokane",
+    "mega_region": "US & Canada"
+  },
+  "GFK": {
+    "city_id": 1577,
+    "city_name": "Grand Forks",
+    "mega_region": "US & Canada"
+  },
+  "GGG": {
+    "city_id": 833,
+    "city_name": "Tyler",
+    "mega_region": "US & Canada"
+  },
+  "GIG": {
+    "city_id": 296,
+    "city_name": "Rio de Janeiro",
+    "mega_region": "LatAm"
+  },
+  "GIZ": {
+    "city_id": 2094,
+    "city_name": "Southern Saudi",
+    "mega_region": "EMEA"
+  },
+  "GJT": {
+    "city_id": 1416,
+    "city_name": "Rockies",
+    "mega_region": "US & Canada"
+  },
+  "GLA": {
+    "city_id": 450,
+    "city_name": "Glasgow",
+    "mega_region": "EMEA"
+  },
+  "GLT": {
+    "city_id": 1955,
+    "city_name": "Gladstone",
+    "mega_region": "APAC"
+  },
+  "GMP": {
+    "city_id": 89,
+    "city_name": "Seoul",
+    "mega_region": "APAC"
+  },
+  "GNV": {
+    "city_id": 315,
+    "city_name": "Gainesville",
+    "mega_region": "US & Canada"
+  },
+  "GOT": {
+    "city_id": 467,
+    "city_name": "Gothenburg",
+    "mega_region": "EMEA"
+  },
+  "GPT": {
+    "city_id": 444,
+    "city_name": "Gulfport-Biloxi",
+    "mega_region": "US & Canada"
+  },
+  "GRB": {
+    "city_id": 382,
+    "city_name": "Green Bay",
+    "mega_region": "US & Canada"
+  },
+  "GRI": {
+    "city_id": 246,
+    "city_name": "Omaha",
+    "mega_region": "US & Canada"
+  },
+  "GRJ": {
+    "city_id": 1876,
+    "city_name": "Garden Route",
+    "mega_region": "EMEA"
+  },
+  "GRK": {
+    "city_id": 354,
+    "city_name": "Killeen",
+    "mega_region": "US & Canada"
+  },
+  "GRR": {
+    "city_id": 285,
+    "city_name": "Grand Rapids",
+    "mega_region": "US & Canada"
+  },
+  "GRU": {
+    "city_id": 458,
+    "city_name": "Sao Paulo",
+    "mega_region": "LatAm"
+  },
+  "GRX": {
+    "city_id": 1946,
+    "city_name": "Granada",
+    "mega_region": "EMEA"
+  },
+  "GSO": {
+    "city_id": 276,
+    "city_name": "Piedmont Triad",
+    "mega_region": "US & Canada"
+  },
+  "GSP": {
+    "city_id": 344,
+    "city_name": "Greenville, SC",
+    "mega_region": "US & Canada"
+  },
+  "GTF": {
+    "city_id": 659,
+    "city_name": "Bozeman",
+    "mega_region": "US & Canada"
+  },
+  "GTR": {
+    "city_id": 1687,
+    "city_name": "Golden Triangle",
+    "mega_region": "US & Canada"
+  },
+  "GUA": {
+    "city_id": 1031,
+    "city_name": "Guatemala City",
+    "mega_region": "LatAm"
+  },
+  "GVA": {
+    "city_id": 266,
+    "city_name": "Geneva",
+    "mega_region": "EMEA"
+  },
+  "GVR": {
+    "city_id": 1532,
+    "city_name": "Governador Valadares",
+    "mega_region": "LatAm"
+  },
+  "GXQ": {
+    "city_id": 1752,
+    "city_name": "Coyhaique",
+    "mega_region": "LatAm"
+  },
+  "GYE": {
+    "city_id": 1021,
+    "city_name": "Guayaquil",
+    "mega_region": "LatAm"
+  },
+  "GYN": {
+    "city_id": 803,
+    "city_name": "Goiania",
+    "mega_region": "LatAm"
+  },
+  "HAJ": {
+    "city_id": 2442,
+    "city_name": "Hanover",
+    "mega_region": "EMEA"
+  },
+  "HAS": {
+    "city_id": 2093,
+    "city_name": "North Saudi",
+    "mega_region": "EMEA"
+  },
+  "HBA": {
+    "city_id": 468,
+    "city_name": "Hobart",
+    "mega_region": "APAC"
+  },
+  "HBE": {
+    "city_id": 1007,
+    "city_name": "Alexandria",
+    "mega_region": "EMEA"
+  },
+  "HDN": {
+    "city_id": 1416,
+    "city_name": "Rockies",
+    "mega_region": "US & Canada"
+  },
+  "HEL": {
+    "city_id": 46,
+    "city_name": "Helsinki",
+    "mega_region": "EMEA"
+  },
+  "HGR": {
+    "city_id": 35,
+    "city_name": "Baltimore-Maryland",
+    "mega_region": "US & Canada"
+  },
+  "HHH": {
+    "city_id": 238,
+    "city_name": "Savannah-Hilton Head",
+    "mega_region": "US & Canada"
+  },
+  "HIB": {
+    "city_id": 361,
+    "city_name": "Duluth",
+    "mega_region": "US & Canada"
+  },
+  "HKG": {
+    "city_id": 143,
+    "city_name": "Hong Kong",
+    "mega_region": "APAC"
+  },
+  "HKS": {
+    "city_id": 311,
+    "city_name": "Jackson",
+    "mega_region": "US & Canada"
+  },
+  "HLA": {
+    "city_id": 135,
+    "city_name": "Johannesburg and Pretoria",
+    "mega_region": "EMEA"
+  },
+  "HLN": {
+    "city_id": 659,
+    "city_name": "Bozeman",
+    "mega_region": "US & Canada"
+  },
+  "HLZ": {
+    "city_id": 817,
+    "city_name": "Hamilton, NZ",
+    "mega_region": "APAC"
+  },
+  "HMO": {
+    "city_id": 1151,
+    "city_name": "Hermosillo",
+    "mega_region": "LatAm"
+  },
+  "HND": {
+    "city_id": 129,
+    "city_name": "Tokyo",
+    "mega_region": "APAC"
+  },
+  "HNL": {
+    "city_id": 133,
+    "city_name": "Honolulu",
+    "mega_region": "US & Canada"
+  },
+  "HOB": {
+    "city_id": 2366,
+    "city_name": "Roswell",
+    "mega_region": "US & Canada"
+  },
+  "HOF": {
+    "city_id": 599,
+    "city_name": "Eastern Province, KSA",
+    "mega_region": "EMEA"
+  },
+  "HOU": {
+    "city_id": 134,
+    "city_name": "Houston",
+    "mega_region": "US & Canada"
+  },
+  "HPN": {
+    "city_id": 1541,
+    "city_name": "NYC Suburbs",
+    "mega_region": "US & Canada"
+  },
+  "HRG": {
+    "city_id": 2009,
+    "city_name": "Hurghada",
+    "mega_region": "EMEA"
+  },
+  "HRK": {
+    "city_id": 1426,
+    "city_name": "Kharkiv",
+    "mega_region": "EMEA"
+  },
+  "HRL": {
+    "city_id": 258,
+    "city_name": "Rio Grande Valley",
+    "mega_region": "US & Canada"
+  },
+  "HSV": {
+    "city_id": 438,
+    "city_name": "Huntsville, AL",
+    "mega_region": "US & Canada"
+  },
+  "HTS": {
+    "city_id": 316,
+    "city_name": "Western WV",
+    "mega_region": "US & Canada"
+  },
+  "HUF": {
+    "city_id": 661,
+    "city_name": "Terre Haute",
+    "mega_region": "US & Canada"
+  },
+  "HVN": {
+    "city_id": 227,
+    "city_name": "Connecticut",
+    "mega_region": "US & Canada"
+  },
+  "HYA": {
+    "city_id": 6,
+    "city_name": "Boston",
+    "mega_region": "US & Canada"
+  },
+  "HYD": {
+    "city_id": 203,
+    "city_name": "Hyderabad",
+    "mega_region": "APAC"
+  },
+  "IAD": {
+    "city_id": 8,
+    "city_name": "Washington D.C.",
+    "mega_region": "US & Canada"
+  },
+  "IAG": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "IAH": {
+    "city_id": 134,
+    "city_name": "Houston",
+    "mega_region": "US & Canada"
+  },
+  "IAS": {
+    "city_id": 1522,
+    "city_name": "Iasi",
+    "mega_region": "EMEA"
+  },
+  "IBE": {
+    "city_id": 1047,
+    "city_name": "Ibague",
+    "mega_region": "LatAm"
+  },
+  "IBZ": {
+    "city_id": 823,
+    "city_name": "Ibiza",
+    "mega_region": "EMEA"
+  },
+  "ICN": {
+    "city_id": 617,
+    "city_name": "Incheon",
+    "mega_region": "APAC"
+  },
+  "ICT": {
+    "city_id": 304,
+    "city_name": "Wichita",
+    "mega_region": "US & Canada"
+  },
+  "IDA": {
+    "city_id": 654,
+    "city_name": "Eastern Idaho",
+    "mega_region": "US & Canada"
+  },
+  "IDR": {
+    "city_id": 763,
+    "city_name": "Indore",
+    "mega_region": "APAC"
+  },
+  "IEV": {
+    "city_id": 943,
+    "city_name": "Kyiv",
+    "mega_region": "EMEA"
+  },
+  "IGU": {
+    "city_id": 1358,
+    "city_name": "Foz do Iguacu",
+    "mega_region": "LatAm"
+  },
+  "ILM": {
+    "city_id": 321,
+    "city_name": "Wilmington, NC",
+    "mega_region": "US & Canada"
+  },
+  "IMP": {
+    "city_id": 1628,
+    "city_name": "Imperatriz",
+    "mega_region": "LatAm"
+  },
+  "IMT": {
+    "city_id": 1571,
+    "city_name": "Traverse City",
+    "mega_region": "US & Canada"
+  },
+  "IND": {
+    "city_id": 93,
+    "city_name": "Indianapolis",
+    "mega_region": "US & Canada"
+  },
+  "INL": {
+    "city_id": 361,
+    "city_name": "Duluth",
+    "mega_region": "US & Canada"
+  },
+  "IPN": {
+    "city_id": 1390,
+    "city_name": "Ipatinga",
+    "mega_region": "LatAm"
+  },
+  "IPT": {
+    "city_id": 1448,
+    "city_name": "Greater Williamsport",
+    "mega_region": "US & Canada"
+  },
+  "IQQ": {
+    "city_id": 1501,
+    "city_name": "Iquique",
+    "mega_region": "LatAm"
+  },
+  "IRJ": {
+    "city_id": 1874,
+    "city_name": "La Rioja",
+    "mega_region": "LatAm"
+  },
+  "ISB": {
+    "city_id": 1546,
+    "city_name": "Islamabad",
+    "mega_region": "EMEA"
+  },
+  "ISN": {
+    "city_id": 1576,
+    "city_name": "Bismarck",
+    "mega_region": "US & Canada"
+  },
+  "ISP": {
+    "city_id": 1541,
+    "city_name": "NYC Suburbs",
+    "mega_region": "US & Canada"
+  },
+  "ITH": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "ITO": {
+    "city_id": 595,
+    "city_name": "Big Island",
+    "mega_region": "US & Canada"
+  },
+  "ITP": {
+    "city_id": 1883,
+    "city_name": "Itaperuna",
+    "mega_region": "LatAm"
+  },
+  "IXC": {
+    "city_id": 473,
+    "city_name": "Chandigarh",
+    "mega_region": "APAC"
+  },
+  "IXE": {
+    "city_id": 955,
+    "city_name": "Mangalore",
+    "mega_region": "APAC"
+  },
+  "IXR": {
+    "city_id": 2039,
+    "city_name": "Ranchi",
+    "mega_region": "APAC"
+  },
+  "JAC": {
+    "city_id": 492,
+    "city_name": "Wyoming",
+    "mega_region": "US & Canada"
+  },
+  "JAI": {
+    "city_id": 474,
+    "city_name": "Jaipur",
+    "mega_region": "APAC"
+  },
+  "JAN": {
+    "city_id": 311,
+    "city_name": "Jackson",
+    "mega_region": "US & Canada"
+  },
+  "JAX": {
+    "city_id": 187,
+    "city_name": "Jacksonville",
+    "mega_region": "US & Canada"
+  },
+  "JBQ": {
+    "city_id": 827,
+    "city_name": "Santo Domingo",
+    "mega_region": "LatAm"
+  },
+  "JDF": {
+    "city_id": 1333,
+    "city_name": "Juiz de Fora",
+    "mega_region": "LatAm"
+  },
+  "JDH": {
+    "city_id": 945,
+    "city_name": "Jodhpur",
+    "mega_region": "APAC"
+  },
+  "JDO": {
+    "city_id": 1564,
+    "city_name": "Juazeiro do Norte",
+    "mega_region": "LatAm"
+  },
+  "JED": {
+    "city_id": 240,
+    "city_name": "Jeddah",
+    "mega_region": "EMEA"
+  },
+  "JFK": {
+    "city_id": 5,
+    "city_name": "New York City",
+    "mega_region": "US & Canada"
+  },
+  "JHM": {
+    "city_id": 594,
+    "city_name": "Maui",
+    "mega_region": "US & Canada"
+  },
+  "JMK": {
+    "city_id": 2415,
+    "city_name": "Mykonos",
+    "mega_region": "EMEA"
+  },
+  "JNB": {
+    "city_id": 135,
+    "city_name": "Johannesburg and Pretoria",
+    "mega_region": "EMEA"
+  },
+  "JNU": {
+    "city_id": 633,
+    "city_name": "Juneau",
+    "mega_region": "US & Canada"
+  },
+  "JOI": {
+    "city_id": 1275,
+    "city_name": "Joinville",
+    "mega_region": "LatAm"
+  },
+  "JPA": {
+    "city_id": 1311,
+    "city_name": "Joao Pessoa",
+    "mega_region": "LatAm"
+  },
+  "JTC": {
+    "city_id": 1388,
+    "city_name": "Bauru",
+    "mega_region": "LatAm"
+  },
+  "JTR": {
+    "city_id": 2412,
+    "city_name": "Santorini",
+    "mega_region": "EMEA"
+  },
+  "JUJ": {
+    "city_id": 1780,
+    "city_name": "San Salvador de Jujuy",
+    "mega_region": "LatAm"
+  },
+  "KBP": {
+    "city_id": 943,
+    "city_name": "Kyiv",
+    "mega_region": "EMEA"
+  },
+  "KHH": {
+    "city_id": 1077,
+    "city_name": "Kaohsiung",
+    "mega_region": "APAC"
+  },
+  "KHI": {
+    "city_id": 1472,
+    "city_name": "Karachi",
+    "mega_region": "EMEA"
+  },
+  "KIN": {
+    "city_id": 1420,
+    "city_name": "Kingston, Jamaica",
+    "mega_region": "LatAm"
+  },
+  "KIX": {
+    "city_id": 1609,
+    "city_name": "Osaka",
+    "mega_region": "APAC"
+  },
+  "KJJ": {
+    "city_id": 1255,
+    "city_name": "Kampala",
+    "mega_region": "EMEA"
+  },
+  "KMS": {
+    "city_id": 1681,
+    "city_name": "Kumasi",
+    "mega_region": "EMEA"
+  },
+  "KOA": {
+    "city_id": 595,
+    "city_name": "Big Island",
+    "mega_region": "US & Canada"
+  },
+  "KQH": {
+    "city_id": 747,
+    "city_name": "Ajmer",
+    "mega_region": "APAC"
+  },
+  "KRK": {
+    "city_id": 495,
+    "city_name": "Krakow",
+    "mega_region": "EMEA"
+  },
+  "KTN": {
+    "city_id": 633,
+    "city_name": "Juneau",
+    "mega_region": "US & Canada"
+  },
+  "KTW": {
+    "city_id": 1091,
+    "city_name": "Silesia",
+    "mega_region": "EMEA"
+  },
+  "KUN": {
+    "city_id": 1528,
+    "city_name": "Kaunas",
+    "mega_region": "EMEA"
+  },
+  "LAF": {
+    "city_id": 1343,
+    "city_name": "West Lafayette",
+    "mega_region": "US & Canada"
+  },
+  "LAN": {
+    "city_id": 347,
+    "city_name": "Lansing",
+    "mega_region": "US & Canada"
+  },
+  "LAP": {
+    "city_id": 1489,
+    "city_name": "La Paz, Mexico",
+    "mega_region": "LatAm"
+  },
+  "LAR": {
+    "city_id": 492,
+    "city_name": "Wyoming",
+    "mega_region": "US & Canada"
+  },
+  "LAS": {
+    "city_id": 15,
+    "city_name": "Las Vegas",
+    "mega_region": "US & Canada"
+  },
+  "LAX": {
+    "city_id": 12,
+    "city_name": "Los Angeles",
+    "mega_region": "US & Canada"
+  },
+  "LBA": {
+    "city_id": 245,
+    "city_name": "Leeds",
+    "mega_region": "EMEA"
+  },
+  "LBB": {
+    "city_id": 253,
+    "city_name": "Lubbock",
+    "mega_region": "US & Canada"
+  },
+  "LBE": {
+    "city_id": 45,
+    "city_name": "Pittsburgh",
+    "mega_region": "US & Canada"
+  },
+  "LCG": {
+    "city_id": 1996,
+    "city_name": "La Coruna",
+    "mega_region": "EMEA"
+  },
+  "LCJ": {
+    "city_id": 1061,
+    "city_name": "Lodz",
+    "mega_region": "EMEA"
+  },
+  "LCK": {
+    "city_id": 139,
+    "city_name": "Columbus",
+    "mega_region": "US & Canada"
+  },
+  "LCY": {
+    "city_id": 18,
+    "city_name": "London",
+    "mega_region": "EMEA"
+  },
+  "LDB": {
+    "city_id": 1277,
+    "city_name": "Londrina",
+    "mega_region": "LatAm"
+  },
+  "LEB": {
+    "city_id": 313,
+    "city_name": "New Hampshire",
+    "mega_region": "US & Canada"
+  },
+  "LEX": {
+    "city_id": 259,
+    "city_name": "Lexington",
+    "mega_region": "US & Canada"
+  },
+  "LFT": {
+    "city_id": 443,
+    "city_name": "Lafayette-Lake Charles",
+    "mega_region": "US & Canada"
+  },
+  "LGA": {
+    "city_id": 5,
+    "city_name": "New York City",
+    "mega_region": "US & Canada"
+  },
+  "LGB": {
+    "city_id": 12,
+    "city_name": "Los Angeles",
+    "mega_region": "US & Canada"
+  },
+  "LGW": {
+    "city_id": 18,
+    "city_name": "London",
+    "mega_region": "EMEA"
+  },
+  "LHE": {
+    "city_id": 1005,
+    "city_name": "Lahore",
+    "mega_region": "EMEA"
+  },
+  "LHR": {
+    "city_id": 18,
+    "city_name": "London",
+    "mega_region": "EMEA"
+  },
+  "LIH": {
+    "city_id": 596,
+    "city_name": "Kauai",
+    "mega_region": "US & Canada"
+  },
+  "LIL": {
+    "city_id": 263,
+    "city_name": "Lille",
+    "mega_region": "EMEA"
+  },
+  "LIM": {
+    "city_id": 144,
+    "city_name": "Lima",
+    "mega_region": "LatAm"
+  },
+  "LIN": {
+    "city_id": 32,
+    "city_name": "Milan",
+    "mega_region": "EMEA"
+  },
+  "LIO": {
+    "city_id": 1977,
+    "city_name": "Limon",
+    "mega_region": "LatAm"
+  },
+  "LIR": {
+    "city_id": 1947,
+    "city_name": "Liberia",
+    "mega_region": "LatAm"
+  },
+  "LIS": {
+    "city_id": 52,
+    "city_name": "Lisbon",
+    "mega_region": "EMEA"
+  },
+  "LIT": {
+    "city_id": 273,
+    "city_name": "Little Rock",
+    "mega_region": "US & Canada"
+  },
+  "LKO": {
+    "city_id": 1481,
+    "city_name": "Lucknow",
+    "mega_region": "APAC"
+  },
+  "LMM": {
+    "city_id": 1443,
+    "city_name": "Los Mochis",
+    "mega_region": "LatAm"
+  },
+  "LNK": {
+    "city_id": 260,
+    "city_name": "Lincoln",
+    "mega_region": "US & Canada"
+  },
+  "LOS": {
+    "city_id": 389,
+    "city_name": "Lagos",
+    "mega_region": "EMEA"
+  },
+  "LPB": {
+    "city_id": 1023,
+    "city_name": "La Paz",
+    "mega_region": "LatAm"
+  },
+  "LPL": {
+    "city_id": 453,
+    "city_name": "Merseyside",
+    "mega_region": "EMEA"
+  },
+  "LRD": {
+    "city_id": 366,
+    "city_name": "Laredo",
+    "mega_region": "US & Canada"
+  },
+  "LSC": {
+    "city_id": 1496,
+    "city_name": "La Serena",
+    "mega_region": "LatAm"
+  },
+  "LSE": {
+    "city_id": 1575,
+    "city_name": "La Crosse",
+    "mega_region": "US & Canada"
+  },
+  "LST": {
+    "city_id": 1902,
+    "city_name": "Launceston",
+    "mega_region": "APAC"
+  },
+  "LTN": {
+    "city_id": 18,
+    "city_name": "London",
+    "mega_region": "EMEA"
+  },
+  "LUH": {
+    "city_id": 751,
+    "city_name": "Ludhiana",
+    "mega_region": "APAC"
+  },
+  "LUK": {
+    "city_id": 141,
+    "city_name": "Cincinnati",
+    "mega_region": "US & Canada"
+  },
+  "LUQ": {
+    "city_id": 1788,
+    "city_name": "San Luis",
+    "mega_region": "LatAm"
+  },
+  "LWB": {
+    "city_id": 316,
+    "city_name": "Western WV",
+    "mega_region": "US & Canada"
+  },
+  "LWO": {
+    "city_id": 1429,
+    "city_name": "Lviv",
+    "mega_region": "EMEA"
+  },
+  "LYH": {
+    "city_id": 320,
+    "city_name": "Roanoke",
+    "mega_region": "US & Canada"
+  },
+  "LYP": {
+    "city_id": 1547,
+    "city_name": "Faisalabad",
+    "mega_region": "EMEA"
+  },
+  "LYS": {
+    "city_id": 51,
+    "city_name": "Lyon",
+    "mega_region": "EMEA"
+  },
+  "MAA": {
+    "city_id": 209,
+    "city_name": "Chennai",
+    "mega_region": "APAC"
+  },
+  "MAB": {
+    "city_id": 1626,
+    "city_name": "Maraba",
+    "mega_region": "LatAm"
+  },
+  "MAD": {
+    "city_id": 16,
+    "city_name": "Madrid",
+    "mega_region": "EMEA"
+  },
+  "MAF": {
+    "city_id": 831,
+    "city_name": "Midland-Odessa",
+    "mega_region": "US & Canada"
+  },
+  "MAM": {
+    "city_id": 1453,
+    "city_name": "Matamoros",
+    "mega_region": "LatAm"
+  },
+  "MAN": {
+    "city_id": 211,
+    "city_name": "Manchester",
+    "mega_region": "EMEA"
+  },
+  "MAO": {
+    "city_id": 1273,
+    "city_name": "Manaus",
+    "mega_region": "LatAm"
+  },
+  "MBA": {
+    "city_id": 1085,
+    "city_name": "Mombasa",
+    "mega_region": "EMEA"
+  },
+  "MBJ": {
+    "city_id": 1986,
+    "city_name": "Montego Bay",
+    "mega_region": "LatAm"
+  },
+  "MBS": {
+    "city_id": 1569,
+    "city_name": "Tri-Cities, MI",
+    "mega_region": "US & Canada"
+  },
+  "MCI": {
+    "city_id": 88,
+    "city_name": "Kansas City",
+    "mega_region": "US & Canada"
+  },
+  "MCO": {
+    "city_id": 208,
+    "city_name": "Orlando",
+    "mega_region": "US & Canada"
+  },
+  "MCP": {
+    "city_id": 1287,
+    "city_name": "Macapa",
+    "mega_region": "LatAm"
+  },
+  "MCY": {
+    "city_id": 639,
+    "city_name": "Sunshine Coast",
+    "mega_region": "APAC"
+  },
+  "MCZ": {
+    "city_id": 1309,
+    "city_name": "Maceio",
+    "mega_region": "LatAm"
+  },
+  "MDE": {
+    "city_id": 588,
+    "city_name": "Medellin",
+    "mega_region": "LatAm"
+  },
+  "MDQ": {
+    "city_id": 1167,
+    "city_name": "Mar del Plata",
+    "mega_region": "LatAm"
+  },
+  "MDT": {
+    "city_id": 283,
+    "city_name": "Harrisburg",
+    "mega_region": "US & Canada"
+  },
+  "MDW": {
+    "city_id": 7,
+    "city_name": "Chicago",
+    "mega_region": "US & Canada"
+  },
+  "MDZ": {
+    "city_id": 1171,
+    "city_name": "Mendoza",
+    "mega_region": "LatAm"
+  },
+  "MEC": {
+    "city_id": 2251,
+    "city_name": "Manta",
+    "mega_region": "LatAm"
+  },
+  "MED": {
+    "city_id": 1878,
+    "city_name": "Madinah",
+    "mega_region": "EMEA"
+  },
+  "MEL": {
+    "city_id": 39,
+    "city_name": "Melbourne",
+    "mega_region": "APAC"
+  },
+  "MEM": {
+    "city_id": 186,
+    "city_name": "Memphis",
+    "mega_region": "US & Canada"
+  },
+  "MEX": {
+    "city_id": 90,
+    "city_name": "Mexico City",
+    "mega_region": "LatAm"
+  },
+  "MFE": {
+    "city_id": 258,
+    "city_name": "Rio Grande Valley",
+    "mega_region": "US & Canada"
+  },
+  "MFM": {
+    "city_id": 534,
+    "city_name": "Macau",
+    "mega_region": "APAC"
+  },
+  "MFR": {
+    "city_id": 290,
+    "city_name": "Southern Oregon",
+    "mega_region": "US & Canada"
+  },
+  "MGF": {
+    "city_id": 1297,
+    "city_name": "Maringa",
+    "mega_region": "LatAm"
+  },
+  "MGM": {
+    "city_id": 294,
+    "city_name": "Montgomery, AL",
+    "mega_region": "US & Canada"
+  },
+  "MGW": {
+    "city_id": 448,
+    "city_name": "Eastern WV",
+    "mega_region": "US & Canada"
+  },
+  "MHT": {
+    "city_id": 313,
+    "city_name": "New Hampshire",
+    "mega_region": "US & Canada"
+  },
+  "MIA": {
+    "city_id": 14,
+    "city_name": "Miami",
+    "mega_region": "US & Canada"
+  },
+  "MID": {
+    "city_id": 1129,
+    "city_name": "Merida",
+    "mega_region": "LatAm"
+  },
+  "MKE": {
+    "city_id": 49,
+    "city_name": "Milwaukee",
+    "mega_region": "US & Canada"
+  },
+  "MKG": {
+    "city_id": 285,
+    "city_name": "Grand Rapids",
+    "mega_region": "US & Canada"
+  },
+  "MKY": {
+    "city_id": 1954,
+    "city_name": "Mackay",
+    "mega_region": "APAC"
+  },
+  "MLA": {
+    "city_id": 2787,
+    "city_name": "Malta",
+    "mega_region": "EMEA"
+  },
+  "MLB": {
+    "city_id": 333,
+    "city_name": "Central Atlantic Coast, FL",
+    "mega_region": "US & Canada"
+  },
+  "MLI": {
+    "city_id": 538,
+    "city_name": "Quad Cities",
+    "mega_region": "US & Canada"
+  },
+  "MLM": {
+    "city_id": 1438,
+    "city_name": "Morelia",
+    "mega_region": "LatAm"
+  },
+  "MLU": {
+    "city_id": 1709,
+    "city_name": "Monroe",
+    "mega_region": "US & Canada"
+  },
+  "MMH": {
+    "city_id": 41,
+    "city_name": "Sacramento",
+    "mega_region": "US & Canada"
+  },
+  "MMSL": {
+    "city_id": 1760,
+    "city_name": "Los Cabos",
+    "mega_region": "LatAm"
+  },
+  "MMX": {
+    "city_id": 1059,
+    "city_name": "Malm\u00f6 and Helsingborg",
+    "mega_region": "EMEA"
+  },
+  "MOB": {
+    "city_id": 437,
+    "city_name": "Mobile, AL",
+    "mega_region": "US & Canada"
+  },
+  "MOC": {
+    "city_id": 1335,
+    "city_name": "Montes Claros",
+    "mega_region": "LatAm"
+  },
+  "MOD": {
+    "city_id": 229,
+    "city_name": "Modesto",
+    "mega_region": "US & Canada"
+  },
+  "MOT": {
+    "city_id": 1576,
+    "city_name": "Bismarck",
+    "mega_region": "US & Canada"
+  },
+  "MPL": {
+    "city_id": 481,
+    "city_name": "Montpellier",
+    "mega_region": "EMEA"
+  },
+  "MQT": {
+    "city_id": 1571,
+    "city_name": "Traverse City",
+    "mega_region": "US & Canada"
+  },
+  "MRS": {
+    "city_id": 267,
+    "city_name": "Marseille",
+    "mega_region": "EMEA"
+  },
+  "MRY": {
+    "city_id": 1,
+    "city_name": "San Francisco",
+    "mega_region": "US & Canada"
+  },
+  "MSN": {
+    "city_id": 219,
+    "city_name": "Madison",
+    "mega_region": "US & Canada"
+  },
+  "MSO": {
+    "city_id": 658,
+    "city_name": "Missoula",
+    "mega_region": "US & Canada"
+  },
+  "MSP": {
+    "city_id": 28,
+    "city_name": "Minneapolis - St. Paul",
+    "mega_region": "US & Canada"
+  },
+  "MSY": {
+    "city_id": 190,
+    "city_name": "New Orleans",
+    "mega_region": "US & Canada"
+  },
+  "MTJ": {
+    "city_id": 1416,
+    "city_name": "Rockies",
+    "mega_region": "US & Canada"
+  },
+  "MTR": {
+    "city_id": 1043,
+    "city_name": "Monteria",
+    "mega_region": "LatAm"
+  },
+  "MTY": {
+    "city_id": 533,
+    "city_name": "Monterrey",
+    "mega_region": "LatAm"
+  },
+  "MUC": {
+    "city_id": 53,
+    "city_name": "Munich",
+    "mega_region": "EMEA"
+  },
+  "MVD": {
+    "city_id": 1909,
+    "city_name": "Canelones",
+    "mega_region": "LatAm"
+  },
+  "MVY": {
+    "city_id": 6,
+    "city_name": "Boston",
+    "mega_region": "US & Canada"
+  },
+  "MWA": {
+    "city_id": 1578,
+    "city_name": "Carbondale",
+    "mega_region": "US & Canada"
+  },
+  "MXL": {
+    "city_id": 1135,
+    "city_name": "Mexicali",
+    "mega_region": "LatAm"
+  },
+  "MXP": {
+    "city_id": 32,
+    "city_name": "Milan",
+    "mega_region": "EMEA"
+  },
+  "MYQ": {
+    "city_id": 769,
+    "city_name": "Mysore",
+    "mega_region": "APAC"
+  },
+  "MYR": {
+    "city_id": 327,
+    "city_name": "Myrtle Beach",
+    "mega_region": "US & Canada"
+  },
+  "MZT": {
+    "city_id": 1442,
+    "city_name": "Mazatlan",
+    "mega_region": "LatAm"
+  },
+  "NAG": {
+    "city_id": 759,
+    "city_name": "Nagpur",
+    "mega_region": "APAC"
+  },
+  "NAP": {
+    "city_id": 634,
+    "city_name": "Napoli",
+    "mega_region": "EMEA"
+  },
+  "NAT": {
+    "city_id": 787,
+    "city_name": "Natal",
+    "mega_region": "LatAm"
+  },
+  "NBO": {
+    "city_id": 540,
+    "city_name": "Nairobi",
+    "mega_region": "EMEA"
+  },
+  "NCE": {
+    "city_id": 92,
+    "city_name": "Nice",
+    "mega_region": "EMEA"
+  },
+  "NCL": {
+    "city_id": 451,
+    "city_name": "North East, UK",
+    "mega_region": "EMEA"
+  },
+  "NLU": {
+    "city_id": 90,
+    "city_name": "Mexico City",
+    "mega_region": "LatAm"
+  },
+  "NPE": {
+    "city_id": 2087,
+    "city_name": "Napier-Hastings",
+    "mega_region": "APAC"
+  },
+  "NPL": {
+    "city_id": 2081,
+    "city_name": "New Plymouth",
+    "mega_region": "APAC"
+  },
+  "NQN": {
+    "city_id": 1761,
+    "city_name": "Alto Valle",
+    "mega_region": "LatAm"
+  },
+  "NRT": {
+    "city_id": 129,
+    "city_name": "Tokyo",
+    "mega_region": "APAC"
+  },
+  "NSN": {
+    "city_id": 2080,
+    "city_name": "Nelson",
+    "mega_region": "APAC"
+  },
+  "NTE": {
+    "city_id": 480,
+    "city_name": "Nantes",
+    "mega_region": "EMEA"
+  },
+  "NTL": {
+    "city_id": 302,
+    "city_name": "Newcastle",
+    "mega_region": "APAC"
+  },
+  "NTR": {
+    "city_id": 533,
+    "city_name": "Monterrey",
+    "mega_region": "LatAm"
+  },
+  "NVA": {
+    "city_id": 1073,
+    "city_name": "Neiva",
+    "mega_region": "LatAm"
+  },
+  "NVT": {
+    "city_id": 1359,
+    "city_name": "Itajai",
+    "mega_region": "LatAm"
+  },
+  "OAJ": {
+    "city_id": 652,
+    "city_name": "Eastern North Carolina",
+    "mega_region": "US & Canada"
+  },
+  "OAK": {
+    "city_id": 1,
+    "city_name": "San Francisco",
+    "mega_region": "US & Canada"
+  },
+  "ODS": {
+    "city_id": 1428,
+    "city_name": "Odessa",
+    "mega_region": "EMEA"
+  },
+  "OGG": {
+    "city_id": 594,
+    "city_name": "Maui",
+    "mega_region": "US & Canada"
+  },
+  "OKA": {
+    "city_id": 2150,
+    "city_name": "Naha",
+    "mega_region": "APAC"
+  },
+  "OKC": {
+    "city_id": 184,
+    "city_name": "Oklahoma City",
+    "mega_region": "US & Canada"
+  },
+  "OLB": {
+    "city_id": 2464,
+    "city_name": "Olbia",
+    "mega_region": "EMEA"
+  },
+  "OMA": {
+    "city_id": 246,
+    "city_name": "Omaha",
+    "mega_region": "US & Canada"
+  },
+  "ONT": {
+    "city_id": 228,
+    "city_name": "Inland Empire",
+    "mega_region": "US & Canada"
+  },
+  "OOL": {
+    "city_id": 243,
+    "city_name": "Gold Coast",
+    "mega_region": "APAC"
+  },
+  "OPO": {
+    "city_id": 576,
+    "city_name": "Porto",
+    "mega_region": "EMEA"
+  },
+  "ORD": {
+    "city_id": 7,
+    "city_name": "Chicago",
+    "mega_region": "US & Canada"
+  },
+  "ORF": {
+    "city_id": 235,
+    "city_name": "Hampton Roads",
+    "mega_region": "US & Canada"
+  },
+  "ORH": {
+    "city_id": 286,
+    "city_name": "Worcester",
+    "mega_region": "US & Canada"
+  },
+  "ORY": {
+    "city_id": 3,
+    "city_name": "Paris",
+    "mega_region": "EMEA"
+  },
+  "OSL": {
+    "city_id": 529,
+    "city_name": "Oslo",
+    "mega_region": "EMEA"
+  },
+  "OTP": {
+    "city_id": 603,
+    "city_name": "Bucharest",
+    "mega_region": "EMEA"
+  },
+  "OUL": {
+    "city_id": 2746,
+    "city_name": "Oulu",
+    "mega_region": "EMEA"
+  },
+  "OZH": {
+    "city_id": 1683,
+    "city_name": "Zaporizhia",
+    "mega_region": "EMEA"
+  },
+  "PAC": {
+    "city_id": 206,
+    "city_name": "Panama City, PA",
+    "mega_region": "LatAm"
+  },
+  "PAE": {
+    "city_id": 10,
+    "city_name": "Seattle",
+    "mega_region": "US & Canada"
+  },
+  "PAT": {
+    "city_id": 949,
+    "city_name": "Patna",
+    "mega_region": "APAC"
+  },
+  "PBC": {
+    "city_id": 739,
+    "city_name": "Puebla",
+    "mega_region": "LatAm"
+  },
+  "PBG": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "PBI": {
+    "city_id": 14,
+    "city_name": "Miami",
+    "mega_region": "US & Canada"
+  },
+  "PDX": {
+    "city_id": 40,
+    "city_name": "Portland",
+    "mega_region": "US & Canada"
+  },
+  "PEI": {
+    "city_id": 1065,
+    "city_name": "Pereira",
+    "mega_region": "LatAm"
+  },
+  "PER": {
+    "city_id": 222,
+    "city_name": "Perth",
+    "mega_region": "APAC"
+  },
+  "PET": {
+    "city_id": 1289,
+    "city_name": "Pelotas",
+    "mega_region": "LatAm"
+  },
+  "PGD": {
+    "city_id": 331,
+    "city_name": "Sarasota",
+    "mega_region": "US & Canada"
+  },
+  "PGV": {
+    "city_id": 652,
+    "city_name": "Eastern North Carolina",
+    "mega_region": "US & Canada"
+  },
+  "PGZ": {
+    "city_id": 1293,
+    "city_name": "Ponta Grossa",
+    "mega_region": "LatAm"
+  },
+  "PHF": {
+    "city_id": 235,
+    "city_name": "Hampton Roads",
+    "mega_region": "US & Canada"
+  },
+  "PHL": {
+    "city_id": 20,
+    "city_name": "Philadelphia",
+    "mega_region": "US & Canada"
+  },
+  "PHX": {
+    "city_id": 26,
+    "city_name": "Phoenix",
+    "mega_region": "US & Canada"
+  },
+  "PIA": {
+    "city_id": 373,
+    "city_name": "Peoria, IL",
+    "mega_region": "US & Canada"
+  },
+  "PIB": {
+    "city_id": 447,
+    "city_name": "Hattiesburg, MS",
+    "mega_region": "US & Canada"
+  },
+  "PIE": {
+    "city_id": 27,
+    "city_name": "Tampa Bay",
+    "mega_region": "US & Canada"
+  },
+  "PIK": {
+    "city_id": 450,
+    "city_name": "Glasgow",
+    "mega_region": "EMEA"
+  },
+  "PIN": {
+    "city_id": 1714,
+    "city_name": "Parintins",
+    "mega_region": "LatAm"
+  },
+  "PIR": {
+    "city_id": 2068,
+    "city_name": "Pierre",
+    "mega_region": "US & Canada"
+  },
+  "PIT": {
+    "city_id": 45,
+    "city_name": "Pittsburgh",
+    "mega_region": "US & Canada"
+  },
+  "PLN": {
+    "city_id": 1571,
+    "city_name": "Traverse City",
+    "mega_region": "US & Canada"
+  },
+  "PLU": {
+    "city_id": 493,
+    "city_name": "Belo Horizonte",
+    "mega_region": "LatAm"
+  },
+  "PLZ": {
+    "city_id": 995,
+    "city_name": "Port Elizabeth",
+    "mega_region": "EMEA"
+  },
+  "PMC": {
+    "city_id": 1519,
+    "city_name": "Puerto Montt",
+    "mega_region": "LatAm"
+  },
+  "PMI": {
+    "city_id": 2000,
+    "city_name": "Mallorca",
+    "mega_region": "EMEA"
+  },
+  "PMO": {
+    "city_id": 2001,
+    "city_name": "Palermo",
+    "mega_region": "EMEA"
+  },
+  "PMR": {
+    "city_id": 2082,
+    "city_name": "Palmerston North",
+    "mega_region": "APAC"
+  },
+  "PMW": {
+    "city_id": 1281,
+    "city_name": "Palmas",
+    "mega_region": "LatAm"
+  },
+  "PNQ": {
+    "city_id": 342,
+    "city_name": "Pune",
+    "mega_region": "APAC"
+  },
+  "PNS": {
+    "city_id": 435,
+    "city_name": "Pensacola, FL",
+    "mega_region": "US & Canada"
+  },
+  "PNY": {
+    "city_id": 1930,
+    "city_name": "Puducherry",
+    "mega_region": "APAC"
+  },
+  "PNZ": {
+    "city_id": 1561,
+    "city_name": "Petrolina",
+    "mega_region": "LatAm"
+  },
+  "POA": {
+    "city_id": 791,
+    "city_name": "Porto Alegre",
+    "mega_region": "LatAm"
+  },
+  "POP": {
+    "city_id": 1364,
+    "city_name": "Puerto Plata",
+    "mega_region": "LatAm"
+  },
+  "POS": {
+    "city_id": 1421,
+    "city_name": "Port of Spain",
+    "mega_region": "LatAm"
+  },
+  "POZ": {
+    "city_id": 939,
+    "city_name": "Poznan",
+    "mega_region": "EMEA"
+  },
+  "PPN": {
+    "city_id": 1075,
+    "city_name": "Popayan",
+    "mega_region": "LatAm"
+  },
+  "PPY": {
+    "city_id": 1539,
+    "city_name": "Pouso Alegre",
+    "mega_region": "LatAm"
+  },
+  "PQI": {
+    "city_id": 651,
+    "city_name": "Greater Maine",
+    "mega_region": "US & Canada"
+  },
+  "PRA": {
+    "city_id": 1893,
+    "city_name": "Parana",
+    "mega_region": "LatAm"
+  },
+  "PRG": {
+    "city_id": 55,
+    "city_name": "Prague",
+    "mega_region": "EMEA"
+  },
+  "PSC": {
+    "city_id": 1033,
+    "city_name": "Eastern Washington",
+    "mega_region": "US & Canada"
+  },
+  "PSM": {
+    "city_id": 313,
+    "city_name": "New Hampshire",
+    "mega_region": "US & Canada"
+  },
+  "PSO": {
+    "city_id": 1155,
+    "city_name": "Pasto",
+    "mega_region": "LatAm"
+  },
+  "PSP": {
+    "city_id": 29,
+    "city_name": "Palm Springs",
+    "mega_region": "US & Canada"
+  },
+  "PSS": {
+    "city_id": 1873,
+    "city_name": "Posadas",
+    "mega_region": "LatAm"
+  },
+  "PTY": {
+    "city_id": 206,
+    "city_name": "Panama City, PA",
+    "mega_region": "LatAm"
+  },
+  "PUE": {
+    "city_id": 206,
+    "city_name": "Panama City, PA",
+    "mega_region": "LatAm"
+  },
+  "PUJ": {
+    "city_id": 1363,
+    "city_name": "Punta Cana",
+    "mega_region": "LatAm"
+  },
+  "PUQ": {
+    "city_id": 1505,
+    "city_name": "Punta Arenas",
+    "mega_region": "LatAm"
+  },
+  "PUS": {
+    "city_id": 2069,
+    "city_name": "Busan",
+    "mega_region": "APAC"
+  },
+  "PUW": {
+    "city_id": 1033,
+    "city_name": "Eastern Washington",
+    "mega_region": "US & Canada"
+  },
+  "PVC": {
+    "city_id": 6,
+    "city_name": "Boston",
+    "mega_region": "US & Canada"
+  },
+  "PVD": {
+    "city_id": 136,
+    "city_name": "Rhode Island",
+    "mega_region": "US & Canada"
+  },
+  "PVH": {
+    "city_id": 1271,
+    "city_name": "Porto Velho",
+    "mega_region": "LatAm"
+  },
+  "PVR": {
+    "city_id": 1479,
+    "city_name": "Puerto Vallarta",
+    "mega_region": "LatAm"
+  },
+  "PWM": {
+    "city_id": 271,
+    "city_name": "Portland, ME",
+    "mega_region": "US & Canada"
+  },
+  "PZS": {
+    "city_id": 1495,
+    "city_name": "Temuco",
+    "mega_region": "LatAm"
+  },
+  "QCJ": {
+    "city_id": 1637,
+    "city_name": "Botucatu",
+    "mega_region": "LatAm"
+  },
+  "QRC": {
+    "city_id": 1493,
+    "city_name": "Rancagua",
+    "mega_region": "LatAm"
+  },
+  "QRO": {
+    "city_id": 741,
+    "city_name": "Queretaro",
+    "mega_region": "LatAm"
+  },
+  "RAO": {
+    "city_id": 1317,
+    "city_name": "Ribeirao Preto",
+    "mega_region": "LatAm"
+  },
+  "RAP": {
+    "city_id": 1586,
+    "city_name": "Rapid City",
+    "mega_region": "US & Canada"
+  },
+  "RBR": {
+    "city_id": 1285,
+    "city_name": "Rio Branco",
+    "mega_region": "LatAm"
+  },
+  "RCQ": {
+    "city_id": 2222,
+    "city_name": "Reconquista",
+    "mega_region": "LatAm"
+  },
+  "RCU": {
+    "city_id": 1898,
+    "city_name": "Rio Cuarto",
+    "mega_region": "LatAm"
+  },
+  "RDD": {
+    "city_id": 41,
+    "city_name": "Sacramento",
+    "mega_region": "US & Canada"
+  },
+  "RDM": {
+    "city_id": 1587,
+    "city_name": "Central Oregon",
+    "mega_region": "US & Canada"
+  },
+  "RDU": {
+    "city_id": 233,
+    "city_name": "Raleigh-Durham",
+    "mega_region": "US & Canada"
+  },
+  "REC": {
+    "city_id": 799,
+    "city_name": "Recife",
+    "mega_region": "LatAm"
+  },
+  "REO": {
+    "city_id": 290,
+    "city_name": "Southern Oregon",
+    "mega_region": "US & Canada"
+  },
+  "RES": {
+    "city_id": 1786,
+    "city_name": "Resistencia",
+    "mega_region": "LatAm"
+  },
+  "RFD": {
+    "city_id": 385,
+    "city_name": "Rockford",
+    "mega_region": "US & Canada"
+  },
+  "RHO": {
+    "city_id": 2855,
+    "city_name": "Rhodes",
+    "mega_region": "EMEA"
+  },
+  "RIC": {
+    "city_id": 270,
+    "city_name": "Richmond",
+    "mega_region": "US & Canada"
+  },
+  "RKD": {
+    "city_id": 651,
+    "city_name": "Greater Maine",
+    "mega_region": "US & Canada"
+  },
+  "RKS": {
+    "city_id": 492,
+    "city_name": "Wyoming",
+    "mega_region": "US & Canada"
+  },
+  "RMQ": {
+    "city_id": 965,
+    "city_name": "Taichung",
+    "mega_region": "APAC"
+  },
+  "RNO": {
+    "city_id": 248,
+    "city_name": "Reno",
+    "mega_region": "US & Canada"
+  },
+  "ROA": {
+    "city_id": 320,
+    "city_name": "Roanoke",
+    "mega_region": "US & Canada"
+  },
+  "ROC": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "ROK": {
+    "city_id": 1967,
+    "city_name": "Rockhampton",
+    "mega_region": "APAC"
+  },
+  "RON": {
+    "city_id": 2851,
+    "city_name": "Tunja",
+    "mega_region": "LatAm"
+  },
+  "ROS": {
+    "city_id": 1029,
+    "city_name": "Rosario",
+    "mega_region": "LatAm"
+  },
+  "ROT": {
+    "city_id": 1679,
+    "city_name": "Tauranga",
+    "mega_region": "APAC"
+  },
+  "ROW": {
+    "city_id": 2366,
+    "city_name": "Roswell",
+    "mega_region": "US & Canada"
+  },
+  "RPR": {
+    "city_id": 1177,
+    "city_name": "Raipur",
+    "mega_region": "APAC"
+  },
+  "RST": {
+    "city_id": 360,
+    "city_name": "Rochester, MN",
+    "mega_region": "US & Canada"
+  },
+  "RSW": {
+    "city_id": 275,
+    "city_name": "Fort Myers-Naples",
+    "mega_region": "US & Canada"
+  },
+  "RTM": {
+    "city_id": 216,
+    "city_name": "Rotterdam",
+    "mega_region": "EMEA"
+  },
+  "RUH": {
+    "city_id": 214,
+    "city_name": "Riyadh",
+    "mega_region": "EMEA"
+  },
+  "RVD": {
+    "city_id": 1375,
+    "city_name": "Rio Verde",
+    "mega_region": "LatAm"
+  },
+  "SAL": {
+    "city_id": 1408,
+    "city_name": "San Salvador",
+    "mega_region": "LatAm"
+  },
+  "SAN": {
+    "city_id": 21,
+    "city_name": "San Diego",
+    "mega_region": "US & Canada"
+  },
+  "SAP": {
+    "city_id": 1406,
+    "city_name": "San Pedro Sula",
+    "mega_region": "LatAm"
+  },
+  "SAT": {
+    "city_id": 207,
+    "city_name": "San Antonio",
+    "mega_region": "US & Canada"
+  },
+  "SAV": {
+    "city_id": 238,
+    "city_name": "Savannah-Hilton Head",
+    "mega_region": "US & Canada"
+  },
+  "SAW": {
+    "city_id": 268,
+    "city_name": "Istanbul",
+    "mega_region": "EMEA"
+  },
+  "SBA": {
+    "city_id": 181,
+    "city_name": "Santa Barbara",
+    "mega_region": "US & Canada"
+  },
+  "SBD": {
+    "city_id": 228,
+    "city_name": "Inland Empire",
+    "mega_region": "US & Canada"
+  },
+  "SBN": {
+    "city_id": 368,
+    "city_name": "South Bend",
+    "mega_region": "US & Canada"
+  },
+  "SBP": {
+    "city_id": 191,
+    "city_name": "San Luis Obispo",
+    "mega_region": "US & Canada"
+  },
+  "SBY": {
+    "city_id": 305,
+    "city_name": "Eastern Shore",
+    "mega_region": "US & Canada"
+  },
+  "SCE": {
+    "city_id": 278,
+    "city_name": "State College",
+    "mega_region": "US & Canada"
+  },
+  "SCK": {
+    "city_id": 41,
+    "city_name": "Sacramento",
+    "mega_region": "US & Canada"
+  },
+  "SCL": {
+    "city_id": 148,
+    "city_name": "Santiago",
+    "mega_region": "LatAm"
+  },
+  "SCTB": {
+    "city_id": 148,
+    "city_name": "Santiago",
+    "mega_region": "LatAm"
+  },
+  "SDE": {
+    "city_id": 1895,
+    "city_name": "Santiago del Estero",
+    "mega_region": "LatAm"
+  },
+  "SDF": {
+    "city_id": 236,
+    "city_name": "Louisville",
+    "mega_region": "US & Canada"
+  },
+  "SDQ": {
+    "city_id": 827,
+    "city_name": "Santo Domingo",
+    "mega_region": "LatAm"
+  },
+  "SDU": {
+    "city_id": 296,
+    "city_name": "Rio de Janeiro",
+    "mega_region": "LatAm"
+  },
+  "SEA": {
+    "city_id": 10,
+    "city_name": "Seattle",
+    "mega_region": "US & Canada"
+  },
+  "SFB": {
+    "city_id": 208,
+    "city_name": "Orlando",
+    "mega_region": "US & Canada"
+  },
+  "SFN": {
+    "city_id": 1892,
+    "city_name": "Ciudad de Santa Fe",
+    "mega_region": "LatAm"
+  },
+  "SFO": {
+    "city_id": 1,
+    "city_name": "San Francisco",
+    "mega_region": "US & Canada"
+  },
+  "SGF": {
+    "city_id": 378,
+    "city_name": "Springfield, MO",
+    "mega_region": "US & Canada"
+  },
+  "SGU": {
+    "city_id": 1351,
+    "city_name": "Southern Utah",
+    "mega_region": "US & Canada"
+  },
+  "SHD": {
+    "city_id": 441,
+    "city_name": "Charlottesville-Harrisonburg",
+    "mega_region": "US & Canada"
+  },
+  "SHR": {
+    "city_id": 492,
+    "city_name": "Wyoming",
+    "mega_region": "US & Canada"
+  },
+  "SHV": {
+    "city_id": 434,
+    "city_name": "Shreveport-Alexandria",
+    "mega_region": "US & Canada"
+  },
+  "SIG": {
+    "city_id": 1789,
+    "city_name": "San Juan",
+    "mega_region": "LatAm"
+  },
+  "SJC": {
+    "city_id": 1,
+    "city_name": "San Francisco",
+    "mega_region": "US & Canada"
+  },
+  "SJD": {
+    "city_id": 1760,
+    "city_name": "Los Cabos",
+    "mega_region": "LatAm"
+  },
+  "SJK": {
+    "city_id": 1321,
+    "city_name": "Sao Jose dos Campos",
+    "mega_region": "LatAm"
+  },
+  "SJO": {
+    "city_id": 781,
+    "city_name": "San Jose, CR",
+    "mega_region": "LatAm"
+  },
+  "SJP": {
+    "city_id": 1400,
+    "city_name": "Sao Jose do Rio Preto",
+    "mega_region": "LatAm"
+  },
+  "SJT": {
+    "city_id": 841,
+    "city_name": "San Angelo",
+    "mega_region": "US & Canada"
+  },
+  "SJU": {
+    "city_id": 592,
+    "city_name": "San Juan, PR",
+    "mega_region": "LatAm"
+  },
+  "SKG": {
+    "city_id": 931,
+    "city_name": "Thessaloniki",
+    "mega_region": "EMEA"
+  },
+  "SLA": {
+    "city_id": 1165,
+    "city_name": "Salta",
+    "mega_region": "LatAm"
+  },
+  "SLC": {
+    "city_id": 247,
+    "city_name": "Salt Lake City",
+    "mega_region": "US & Canada"
+  },
+  "SLP": {
+    "city_id": 1137,
+    "city_name": "San Luis Potosi",
+    "mega_region": "LatAm"
+  },
+  "SLW": {
+    "city_id": 1424,
+    "city_name": "Saltillo",
+    "mega_region": "LatAm"
+  },
+  "SLZ": {
+    "city_id": 1315,
+    "city_name": "Sao Luis",
+    "mega_region": "LatAm"
+  },
+  "SMF": {
+    "city_id": 41,
+    "city_name": "Sacramento",
+    "mega_region": "US & Canada"
+  },
+  "SMR": {
+    "city_id": 1153,
+    "city_name": "Santa Marta",
+    "mega_region": "LatAm"
+  },
+  "SMX": {
+    "city_id": 181,
+    "city_name": "Santa Barbara",
+    "mega_region": "US & Canada"
+  },
+  "SNA": {
+    "city_id": 30,
+    "city_name": "Orange County",
+    "mega_region": "US & Canada"
+  },
+  "SNC": {
+    "city_id": 2249,
+    "city_name": "Salinas",
+    "mega_region": "LatAm"
+  },
+  "SNN": {
+    "city_id": 829,
+    "city_name": "Limerick",
+    "mega_region": "EMEA"
+  },
+  "SOD": {
+    "city_id": 1319,
+    "city_name": "Sorocaba",
+    "mega_region": "LatAm"
+  },
+  "SOU": {
+    "city_id": 454,
+    "city_name": "South Coast, UK",
+    "mega_region": "EMEA"
+  },
+  "SPI": {
+    "city_id": 374,
+    "city_name": "Springfield, IL",
+    "mega_region": "US & Canada"
+  },
+  "SPS": {
+    "city_id": 1676,
+    "city_name": "Wichita Falls",
+    "mega_region": "US & Canada"
+  },
+  "SPU": {
+    "city_id": 1263,
+    "city_name": "Split",
+    "mega_region": "EMEA"
+  },
+  "SPX": {
+    "city_id": 531,
+    "city_name": "Cairo",
+    "mega_region": "EMEA"
+  },
+  "SRQ": {
+    "city_id": 331,
+    "city_name": "Sarasota",
+    "mega_region": "US & Canada"
+  },
+  "SSA": {
+    "city_id": 795,
+    "city_name": "Salvador",
+    "mega_region": "LatAm"
+  },
+  "SSF": {
+    "city_id": 207,
+    "city_name": "San Antonio",
+    "mega_region": "US & Canada"
+  },
+  "SSI": {
+    "city_id": 649,
+    "city_name": "Coastal Georgia",
+    "mega_region": "US & Canada"
+  },
+  "STC": {
+    "city_id": 1579,
+    "city_name": "St Cloud",
+    "mega_region": "US & Canada"
+  },
+  "STI": {
+    "city_id": 1175,
+    "city_name": "Santiago, DR",
+    "mega_region": "LatAm"
+  },
+  "STL": {
+    "city_id": 189,
+    "city_name": "St Louis",
+    "mega_region": "US & Canada"
+  },
+  "STN": {
+    "city_id": 18,
+    "city_name": "London",
+    "mega_region": "EMEA"
+  },
+  "STR": {
+    "city_id": 612,
+    "city_name": "Stuttgart",
+    "mega_region": "EMEA"
+  },
+  "STS": {
+    "city_id": 1,
+    "city_name": "San Francisco",
+    "mega_region": "US & Canada"
+  },
+  "STV": {
+    "city_id": 761,
+    "city_name": "Surat",
+    "mega_region": "APAC"
+  },
+  "SUN": {
+    "city_id": 654,
+    "city_name": "Eastern Idaho",
+    "mega_region": "US & Canada"
+  },
+  "SUX": {
+    "city_id": 376,
+    "city_name": "Sioux City",
+    "mega_region": "US & Canada"
+  },
+  "SVG": {
+    "city_id": 2311,
+    "city_name": "Stavanger",
+    "mega_region": "EMEA"
+  },
+  "SVQ": {
+    "city_id": 577,
+    "city_name": "Seville",
+    "mega_region": "EMEA"
+  },
+  "SWF": {
+    "city_id": 1541,
+    "city_name": "NYC Suburbs",
+    "mega_region": "US & Canada"
+  },
+  "SWO": {
+    "city_id": 352,
+    "city_name": "Stillwater",
+    "mega_region": "US & Canada"
+  },
+  "SXB": {
+    "city_id": 479,
+    "city_name": "Strasbourg",
+    "mega_region": "EMEA"
+  },
+  "SYD": {
+    "city_id": 31,
+    "city_name": "Sydney",
+    "mega_region": "APAC"
+  },
+  "SYQ": {
+    "city_id": 781,
+    "city_name": "San Jose, CR",
+    "mega_region": "LatAm"
+  },
+  "SYR": {
+    "city_id": 1542,
+    "city_name": "Upstate NY",
+    "mega_region": "US & Canada"
+  },
+  "TAM": {
+    "city_id": 1451,
+    "city_name": "Tampico",
+    "mega_region": "LatAm"
+  },
+  "TCQ": {
+    "city_id": 2852,
+    "city_name": "Tacna",
+    "mega_region": "LatAm"
+  },
+  "TEB": {
+    "city_id": 198,
+    "city_name": "New Jersey",
+    "mega_region": "US & Canada"
+  },
+  "TFN": {
+    "city_id": 2037,
+    "city_name": "Tenerife",
+    "mega_region": "EMEA"
+  },
+  "TFS": {
+    "city_id": 2037,
+    "city_name": "Tenerife",
+    "mega_region": "EMEA"
+  },
+  "TGQ": {
+    "city_id": 2089,
+    "city_name": "Tangara da Serra",
+    "mega_region": "LatAm"
+  },
+  "THE": {
+    "city_id": 1399,
+    "city_name": "Teresina",
+    "mega_region": "LatAm"
+  },
+  "TIF": {
+    "city_id": 2095,
+    "city_name": "Mecca",
+    "mega_region": "EMEA"
+  },
+  "TIJ": {
+    "city_id": 218,
+    "city_name": "Tijuana",
+    "mega_region": "LatAm"
+  },
+  "TJL": {
+    "city_id": 1645,
+    "city_name": "Tres Lagoas",
+    "mega_region": "LatAm"
+  },
+  "TKU": {
+    "city_id": 2755,
+    "city_name": "Turku",
+    "mega_region": "EMEA"
+  },
+  "TLC": {
+    "city_id": 961,
+    "city_name": "Toluca",
+    "mega_region": "LatAm"
+  },
+  "TLH": {
+    "city_id": 312,
+    "city_name": "Tallahassee",
+    "mega_region": "US & Canada"
+  },
+  "TLL": {
+    "city_id": 636,
+    "city_name": "Tallinn",
+    "mega_region": "EMEA"
+  },
+  "TLS": {
+    "city_id": 265,
+    "city_name": "Toulouse",
+    "mega_region": "EMEA"
+  },
+  "TLV": {
+    "city_id": 309,
+    "city_name": "Tel Aviv",
+    "mega_region": "EMEA"
+  },
+  "TMP": {
+    "city_id": 2750,
+    "city_name": "Tampere",
+    "mega_region": "EMEA"
+  },
+  "TOL": {
+    "city_id": 298,
+    "city_name": "Toledo",
+    "mega_region": "US & Canada"
+  },
+  "TPA": {
+    "city_id": 27,
+    "city_name": "Tampa Bay",
+    "mega_region": "US & Canada"
+  },
+  "TPE": {
+    "city_id": 1944,
+    "city_name": "Taoyuan",
+    "mega_region": "APAC"
+  },
+  "TPQ": {
+    "city_id": 1436,
+    "city_name": "Tepic",
+    "mega_region": "LatAm"
+  },
+  "TRC": {
+    "city_id": 1423,
+    "city_name": "Torreon",
+    "mega_region": "LatAm"
+  },
+  "TRD": {
+    "city_id": 2313,
+    "city_name": "Trondheim",
+    "mega_region": "EMEA"
+  },
+  "TRG": {
+    "city_id": 1679,
+    "city_name": "Tauranga",
+    "mega_region": "APAC"
+  },
+  "TRI": {
+    "city_id": 1001,
+    "city_name": "Tri-Cities",
+    "mega_region": "US & Canada"
+  },
+  "TRN": {
+    "city_id": 535,
+    "city_name": "Turin",
+    "mega_region": "EMEA"
+  },
+  "TRU": {
+    "city_id": 1510,
+    "city_name": "Trujillo",
+    "mega_region": "LatAm"
+  },
+  "TRV": {
+    "city_id": 749,
+    "city_name": "Thiruvananthapuram",
+    "mega_region": "APAC"
+  },
+  "TSA": {
+    "city_id": 94,
+    "city_name": "Taipei",
+    "mega_region": "APAC"
+  },
+  "TSR": {
+    "city_id": 1520,
+    "city_name": "Timisoara",
+    "mega_region": "EMEA"
+  },
+  "TSV": {
+    "city_id": 640,
+    "city_name": "Townsville",
+    "mega_region": "APAC"
+  },
+  "TTN": {
+    "city_id": 198,
+    "city_name": "New Jersey",
+    "mega_region": "US & Canada"
+  },
+  "TUC": {
+    "city_id": 1169,
+    "city_name": "Tucuman",
+    "mega_region": "LatAm"
+  },
+  "TUL": {
+    "city_id": 183,
+    "city_name": "Tulsa",
+    "mega_region": "US & Canada"
+  },
+  "TUO": {
+    "city_id": 817,
+    "city_name": "Hamilton, NZ",
+    "mega_region": "APAC"
+  },
+  "TUS": {
+    "city_id": 48,
+    "city_name": "Tucson",
+    "mega_region": "US & Canada"
+  },
+  "TUU": {
+    "city_id": 2097,
+    "city_name": "Tabuk",
+    "mega_region": "EMEA"
+  },
+  "TVC": {
+    "city_id": 1571,
+    "city_name": "Traverse City",
+    "mega_region": "US & Canada"
+  },
+  "TWF": {
+    "city_id": 654,
+    "city_name": "Eastern Idaho",
+    "mega_region": "US & Canada"
+  },
+  "TXL": {
+    "city_id": 38,
+    "city_name": "Berlin",
+    "mega_region": "EMEA"
+  },
+  "TYR": {
+    "city_id": 833,
+    "city_name": "Tyler",
+    "mega_region": "US & Canada"
+  },
+  "TYS": {
+    "city_id": 277,
+    "city_name": "Knoxville",
+    "mega_region": "US & Canada"
+  },
+  "TZR": {
+    "city_id": 139,
+    "city_name": "Columbus",
+    "mega_region": "US & Canada"
+  },
+  "UAQ": {
+    "city_id": 1789,
+    "city_name": "San Juan",
+    "mega_region": "LatAm"
+  },
+  "UBA": {
+    "city_id": 1331,
+    "city_name": "Uberaba",
+    "mega_region": "LatAm"
+  },
+  "UDI": {
+    "city_id": 1329,
+    "city_name": "Uberlandia",
+    "mega_region": "LatAm"
+  },
+  "UDR": {
+    "city_id": 757,
+    "city_name": "Udaipur",
+    "mega_region": "APAC"
+  },
+  "UIN": {
+    "city_id": 291,
+    "city_name": "Billings",
+    "mega_region": "US & Canada"
+  },
+  "UIO": {
+    "city_id": 1019,
+    "city_name": "Quito",
+    "mega_region": "LatAm"
+  },
+  "UKA": {
+    "city_id": 1085,
+    "city_name": "Mombasa",
+    "mega_region": "EMEA"
+  },
+  "USA": {
+    "city_id": 22,
+    "city_name": "Charlotte",
+    "mega_region": "US & Canada"
+  },
+  "VCE": {
+    "city_id": 591,
+    "city_name": "Padua",
+    "mega_region": "EMEA"
+  },
+  "VCP": {
+    "city_id": 793,
+    "city_name": "Campinas",
+    "mega_region": "LatAm"
+  },
+  "VDC": {
+    "city_id": 1611,
+    "city_name": "Vitoria da Conquista",
+    "mega_region": "LatAm"
+  },
+  "VGA": {
+    "city_id": 947,
+    "city_name": "Vijayawada",
+    "mega_region": "APAC"
+  },
+  "VIE": {
+    "city_id": 224,
+    "city_name": "Vienna",
+    "mega_region": "EMEA"
+  },
+  "VIN": {
+    "city_id": 1691,
+    "city_name": "Vinnytsia",
+    "mega_region": "EMEA"
+  },
+  "VIX": {
+    "city_id": 933,
+    "city_name": "Vitoria",
+    "mega_region": "LatAm"
+  },
+  "VLC": {
+    "city_id": 530,
+    "city_name": "Valencia",
+    "mega_region": "EMEA"
+  },
+  "VLD": {
+    "city_id": 1602,
+    "city_name": "South Georgia",
+    "mega_region": "US & Canada"
+  },
+  "VNO": {
+    "city_id": 606,
+    "city_name": "Vilnius",
+    "mega_region": "EMEA"
+  },
+  "VPS": {
+    "city_id": 435,
+    "city_name": "Pensacola, FL",
+    "mega_region": "US & Canada"
+  },
+  "VSA": {
+    "city_id": 1422,
+    "city_name": "Villahermosa",
+    "mega_region": "LatAm"
+  },
+  "VTZ": {
+    "city_id": 771,
+    "city_name": "Visakhapatnam",
+    "mega_region": "APAC"
+  },
+  "VUP": {
+    "city_id": 1071,
+    "city_name": "Valledupar",
+    "mega_region": "LatAm"
+  },
+  "VVC": {
+    "city_id": 1049,
+    "city_name": "Villavicencio",
+    "mega_region": "LatAm"
+  },
+  "VVI": {
+    "city_id": 1025,
+    "city_name": "Santa Cruz, BO",
+    "mega_region": "LatAm"
+  },
+  "WAW": {
+    "city_id": 459,
+    "city_name": "Warsaw",
+    "mega_region": "EMEA"
+  },
+  "WIL": {
+    "city_id": 540,
+    "city_name": "Nairobi",
+    "mega_region": "EMEA"
+  },
+  "WLG": {
+    "city_id": 299,
+    "city_name": "Wellington",
+    "mega_region": "APAC"
+  },
+  "WMI": {
+    "city_id": 459,
+    "city_name": "Warsaw",
+    "mega_region": "EMEA"
+  },
+  "WRO": {
+    "city_id": 937,
+    "city_name": "Wroclaw",
+    "mega_region": "EMEA"
+  },
+  "WST": {
+    "city_id": 136,
+    "city_name": "Rhode Island",
+    "mega_region": "US & Canada"
+  },
+  "WTB": {
+    "city_id": 641,
+    "city_name": "Toowoomba",
+    "mega_region": "APAC"
+  },
+  "X01": {
+    "city_id": 973,
+    "city_name": "Lillehammer",
+    "mega_region": "EMEA"
+  },
+  "XAP": {
+    "city_id": 1361,
+    "city_name": "Chapeco",
+    "mega_region": "LatAm"
+  },
+  "XNA": {
+    "city_id": 436,
+    "city_name": "Fayetteville, AR",
+    "mega_region": "US & Canada"
+  },
+  "XPL": {
+    "city_id": 1410,
+    "city_name": "Tegucigalpa",
+    "mega_region": "LatAm"
+  },
+  "XRY": {
+    "city_id": 1936,
+    "city_name": "Jerez",
+    "mega_region": "EMEA"
+  },
+  "YCM": {
+    "city_id": 393,
+    "city_name": "Niagara Region",
+    "mega_region": "US & Canada"
+  },
+  "YEG": {
+    "city_id": 339,
+    "city_name": "Edmonton",
+    "mega_region": "US & Canada"
+  },
+  "YGK": {
+    "city_id": 402,
+    "city_name": "Kingston",
+    "mega_region": "US & Canada"
+  },
+  "YHM": {
+    "city_id": 337,
+    "city_name": "Hamilton",
+    "mega_region": "US & Canada"
+  },
+  "YHU": {
+    "city_id": 140,
+    "city_name": "Montreal",
+    "mega_region": "US & Canada"
+  },
+  "YHZ": {
+    "city_id": 336,
+    "city_name": "Halifax",
+    "mega_region": "US & Canada"
+  },
+  "YKF": {
+    "city_id": 341,
+    "city_name": "Kitchener-Waterloo",
+    "mega_region": "US & Canada"
+  },
+  "YLW": {
+    "city_id": 399,
+    "city_name": "Kelowna",
+    "mega_region": "US & Canada"
+  },
+  "YMM": {
+    "city_id": 1141,
+    "city_name": "Fort McMurray",
+    "mega_region": "US & Canada"
+  },
+  "YNB": {
+    "city_id": 1878,
+    "city_name": "Madinah",
+    "mega_region": "EMEA"
+  },
+  "YND": {
+    "city_id": 1473,
+    "city_name": "Gatineau",
+    "mega_region": "US & Canada"
+  },
+  "YNG": {
+    "city_id": 1339,
+    "city_name": "Youngstown",
+    "mega_region": "US & Canada"
+  },
+  "YOW": {
+    "city_id": 335,
+    "city_name": "Ottawa",
+    "mega_region": "US & Canada"
+  },
+  "YQB": {
+    "city_id": 391,
+    "city_name": "Quebec City",
+    "mega_region": "US & Canada"
+  },
+  "YQF": {
+    "city_id": 418,
+    "city_name": "Red Deer",
+    "mega_region": "US & Canada"
+  },
+  "YQG": {
+    "city_id": 396,
+    "city_name": "Windsor",
+    "mega_region": "US & Canada"
+  },
+  "YQL": {
+    "city_id": 410,
+    "city_name": "Lethbridge",
+    "mega_region": "US & Canada"
+  },
+  "YQM": {
+    "city_id": 406,
+    "city_name": "Moncton",
+    "mega_region": "US & Canada"
+  },
+  "YQR": {
+    "city_id": 427,
+    "city_name": "Regina",
+    "mega_region": "US & Canada"
+  },
+  "YQT": {
+    "city_id": 409,
+    "city_name": "Thunder Bay",
+    "mega_region": "US & Canada"
+  },
+  "YSB": {
+    "city_id": 401,
+    "city_name": "Greater Sudbury",
+    "mega_region": "US & Canada"
+  },
+  "YTZ": {
+    "city_id": 13,
+    "city_name": "Toronto",
+    "mega_region": "US & Canada"
+  },
+  "YUL": {
+    "city_id": 140,
+    "city_name": "Montreal",
+    "mega_region": "US & Canada"
+  },
+  "YUM": {
+    "city_id": 600,
+    "city_name": "Yuma",
+    "mega_region": "US & Canada"
+  },
+  "YVR": {
+    "city_id": 19,
+    "city_name": "Vancouver",
+    "mega_region": "US & Canada"
+  },
+  "YWG": {
+    "city_id": 390,
+    "city_name": "Winnipeg",
+    "mega_region": "US & Canada"
+  },
+  "YXE": {
+    "city_id": 426,
+    "city_name": "Saskatoon",
+    "mega_region": "US & Canada"
+  },
+  "YXU": {
+    "city_id": 338,
+    "city_name": "London, Ont",
+    "mega_region": "US & Canada"
+  },
+  "YXX": {
+    "city_id": 19,
+    "city_name": "Vancouver",
+    "mega_region": "US & Canada"
+  },
+  "YYC": {
+    "city_id": 192,
+    "city_name": "Calgary",
+    "mega_region": "US & Canada"
+  },
+  "YYJ": {
+    "city_id": 395,
+    "city_name": "Victoria",
+    "mega_region": "US & Canada"
+  },
+  "YYZ": {
+    "city_id": 13,
+    "city_name": "Toronto",
+    "mega_region": "US & Canada"
+  },
+  "Z01": {
+    "city_id": 973,
+    "city_name": "Lillehammer",
+    "mega_region": "EMEA"
+  },
+  "ZAD": {
+    "city_id": 2202,
+    "city_name": "Zadar",
+    "mega_region": "EMEA"
+  },
+  "ZAG": {
+    "city_id": 913,
+    "city_name": "Zagreb",
+    "mega_region": "EMEA"
+  },
+  "ZAL": {
+    "city_id": 1497,
+    "city_name": "Valdivia",
+    "mega_region": "LatAm"
+  },
+  "ZCL": {
+    "city_id": 1435,
+    "city_name": "Zacatecas",
+    "mega_region": "LatAm"
+  },
+  "ZCO": {
+    "city_id": 1495,
+    "city_name": "Temuco",
+    "mega_region": "LatAm"
+  },
+  "ZLO": {
+    "city_id": 1753,
+    "city_name": "Manzanillo",
+    "mega_region": "LatAm"
+  },
+  "ZOS": {
+    "city_id": 1502,
+    "city_name": "Osorno",
+    "mega_region": "LatAm"
+  },
+  "ZQN": {
+    "city_id": 811,
+    "city_name": "Queenstown",
+    "mega_region": "APAC"
+  },
+  "ZRH": {
+    "city_id": 47,
+    "city_name": "Zurich",
+    "mega_region": "EMEA"
+  }
+}

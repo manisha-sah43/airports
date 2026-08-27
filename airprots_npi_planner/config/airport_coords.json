@@ -1,0 +1,1360 @@
+{
+  "ABV": {
+    "city_name": "Abuja",
+    "lat": 9.005347,
+    "lng": 7.268973,
+    "name": "Nnamdi Azikiwe International Airport",
+    "timezone": "Africa/Lagos"
+  },
+  "ABZ": {
+    "city_name": "Aberdeen",
+    "lat": 57.203007,
+    "lng": -2.19982,
+    "name": "Aberdeen Airport",
+    "timezone": "Europe/London"
+  },
+  "ACC": {
+    "city_name": "Accra",
+    "lat": 5.603135,
+    "lng": -0.168435,
+    "name": "Kotoka International Airport",
+    "timezone": "Africa/Accra"
+  },
+  "ADA": {
+    "city_name": "Adana",
+    "lat": 36.984083,
+    "lng": 35.285636,
+    "name": "Adana Sakirpasa Airport",
+    "timezone": "Europe/Istanbul"
+  },
+  "ADB": {
+    "city_name": "Izmir",
+    "lat": 38.290501,
+    "lng": 27.155162,
+    "name": "Izmir Adnan Menderes Airport",
+    "timezone": "Europe/Istanbul"
+  },
+  "AGP": {
+    "city_name": "Malaga",
+    "lat": 36.678172,
+    "lng": -4.497418,
+    "name": "M\u00e1laga-Costa del Sol Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "AHB": {
+    "city_name": "Southern Saudi",
+    "lat": 18.241503,
+    "lng": 42.650015,
+    "name": "Abha Regional Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "AHO": {
+    "city_name": "Sassari",
+    "lat": 40.633303,
+    "lng": 8.28915,
+    "name": "Alghero Riviera del Corallo",
+    "timezone": "Europe/Rome"
+  },
+  "ALC": {
+    "city_name": "Alicante",
+    "lat": 38.285826,
+    "lng": -0.557739,
+    "name": "Alicante Elche Miguel Hernandez Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "AMM": {
+    "city_name": "Amman",
+    "lat": 31.722899,
+    "lng": 35.990235,
+    "name": "Queen Alia International Airport",
+    "timezone": "Asia/Amman"
+  },
+  "AMS": {
+    "city_name": "Amsterdam",
+    "lat": 52.318542,
+    "lng": 4.74861,
+    "name": "Amsterdam Schiphol Airport",
+    "timezone": "Europe/Amsterdam"
+  },
+  "ARN": {
+    "city_name": "Stockholm",
+    "lat": 59.647771,
+    "lng": 17.941828,
+    "name": "Stockholm Arlanda Airport",
+    "timezone": "Europe/Stockholm"
+  },
+  "ASR": {
+    "city_name": "Kayseri",
+    "lat": 38.770972,
+    "lng": 35.491316,
+    "name": "Kayseri Erkilet Airport",
+    "timezone": "Europe/Istanbul"
+  },
+  "ATH": {
+    "city_name": "Athens, GR",
+    "lat": 37.938274,
+    "lng": 23.947936,
+    "name": "Athens Eleftherios Venizelos Airport",
+    "timezone": "Europe/Athens"
+  },
+  "AUH": {
+    "city_name": "Abu Dhabi",
+    "lat": 24.440004,
+    "lng": 54.644586,
+    "name": "Abu Dhabi International Airport",
+    "timezone": "Asia/Dubai"
+  },
+  "AYT": {
+    "city_name": "Antalya",
+    "lat": 36.896298,
+    "lng": 30.79921,
+    "name": "Antalya International Airport",
+    "timezone": "Europe/Istanbul"
+  },
+  "BAH": {
+    "city_name": "Manama",
+    "lat": 26.27113,
+    "lng": 50.630835,
+    "name": "Bahrain International Airport",
+    "timezone": "Asia/Bahrain"
+  },
+  "BBU": {
+    "city_name": "Bucharest",
+    "lat": 44.499638,
+    "lng": 26.093968,
+    "name": "Bucharest B\u0103neasa Airport",
+    "timezone": "Europe/Bucharest"
+  },
+  "BCN": {
+    "city_name": "Barcelona",
+    "lat": 41.298786,
+    "lng": 2.078771,
+    "name": "Barcelona Airport | Josep Tarradellas Barcelona - El Prat",
+    "timezone": "Europe/Madrid"
+  },
+  "BER": {
+    "city_name": "Berlin",
+    "lat": 52.371425,
+    "lng": 13.50604,
+    "name": "Berlin Brandenburg Airport",
+    "timezone": "Europe/Berlin"
+  },
+  "BEY": {
+    "city_name": "Beirut",
+    "lat": 33.818205,
+    "lng": 35.487391,
+    "name": "Beirut\u2013Rafic Hariri International Airport",
+    "timezone": "Asia/Beirut"
+  },
+  "BFS": {
+    "city_name": "Belfast",
+    "lat": 54.65651,
+    "lng": -6.218961,
+    "name": "Belfast International Airport",
+    "timezone": "Europe/London"
+  },
+  "BGO": {
+    "city_name": "Bergen",
+    "lat": 60.294539,
+    "lng": 5.224975,
+    "name": "Bergen Airport",
+    "timezone": "Europe/Oslo"
+  },
+  "BGY": {
+    "city_name": "Milan",
+    "lat": 45.669161,
+    "lng": 9.704277,
+    "name": "Orio al Serio International Airport",
+    "timezone": "Europe/Rome"
+  },
+  "BHD": {
+    "city_name": "Belfast",
+    "lat": 54.616997,
+    "lng": -5.873517,
+    "name": "George Best Belfast City Airport",
+    "timezone": "Europe/London"
+  },
+  "BHX": {
+    "city_name": "Birmingham, UK",
+    "lat": 52.4571,
+    "lng": -1.747666,
+    "name": "Birmingham Airport",
+    "timezone": "Europe/London"
+  },
+  "BIO": {
+    "city_name": "Bilbao",
+    "lat": 43.303423,
+    "lng": -2.915751,
+    "name": "Bilbao Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "BLQ": {
+    "city_name": "Bologna",
+    "lat": 44.532919,
+    "lng": 11.286443,
+    "name": "Bologna Guglielmo Marconi Airport",
+    "timezone": "Europe/Rome"
+  },
+  "BMA": {
+    "city_name": "Stockholm",
+    "lat": 59.35463,
+    "lng": 17.943371,
+    "name": "Stockholm Bromma Airport",
+    "timezone": "Europe/Stockholm"
+  },
+  "BNI": {
+    "city_name": "Benin City",
+    "lat": 6.316015,
+    "lng": 5.600585,
+    "name": "Benin City Airport",
+    "timezone": "Africa/Lagos"
+  },
+  "BOD": {
+    "city_name": "Bordeaux",
+    "lat": 44.829189,
+    "lng": -0.721804,
+    "name": "Bordeaux\u2013M\u00e9rignac Airport",
+    "timezone": "Europe/Paris"
+  },
+  "BRI": {
+    "city_name": "Bari",
+    "lat": 41.135408,
+    "lng": 16.756198,
+    "name": "Bari Karol Wojty\u0142a Airport",
+    "timezone": "Europe/Rome"
+  },
+  "BRQ": {
+    "city_name": "Brno",
+    "lat": 49.154179,
+    "lng": 16.685845,
+    "name": "Brno\u2013Tu\u0159any Airport",
+    "timezone": "Europe/Prague"
+  },
+  "BRS": {
+    "city_name": "South West, UK",
+    "lat": 51.382351,
+    "lng": -2.716594,
+    "name": "Bristol Airport",
+    "timezone": "Europe/London"
+  },
+  "BRU": {
+    "city_name": "Brussels",
+    "lat": 50.899646,
+    "lng": 4.48453,
+    "name": "Brussels Airport",
+    "timezone": "Europe/Brussels"
+  },
+  "BSL": {
+    "city_name": "Basel",
+    "lat": 47.597504,
+    "lng": 7.527782,
+    "name": "Basel Mulhouse Freiburg Airport",
+    "timezone": "Europe/Zurich"
+  },
+  "BTS": {
+    "city_name": "Bratislava",
+    "lat": 48.169552,
+    "lng": 17.209613,
+    "name": "Bratislava Airport",
+    "timezone": "Europe/Bratislava"
+  },
+  "BUD": {
+    "city_name": "Budapest",
+    "lat": 47.439666,
+    "lng": 19.245015,
+    "name": "Budapest Airport",
+    "timezone": "Europe/Budapest"
+  },
+  "BVA": {
+    "city_name": "Paris",
+    "lat": 49.453277,
+    "lng": 2.118507,
+    "name": "Paris Beauvais",
+    "timezone": "Europe/Paris"
+  },
+  "CAG": {
+    "city_name": "Cagliari",
+    "lat": 39.25109,
+    "lng": 9.057779,
+    "name": "Cagliari Elmas Airport",
+    "timezone": "Europe/Rome"
+  },
+  "CAI": {
+    "city_name": "Cairo",
+    "lat": 30.118843,
+    "lng": 31.404506,
+    "name": "Cairo International Airport",
+    "timezone": "Africa/Cairo"
+  },
+  "CDG": {
+    "city_name": "Paris",
+    "lat": 49.006349,
+    "lng": 2.549108,
+    "name": "Paris Charles de Gaulle Airport",
+    "timezone": "Europe/Paris"
+  },
+  "CFU": {
+    "city_name": "Corfu",
+    "lat": 39.605936,
+    "lng": 19.91179,
+    "name": "Ioannis Kapodistrias International Corfu Airport",
+    "timezone": "Europe/Athens"
+  },
+  "CGN": {
+    "city_name": "Cologne",
+    "lat": 50.8678,
+    "lng": 7.138204,
+    "name": "Cologne Bonn Airport",
+    "timezone": "Europe/Berlin"
+  },
+  "CIA": {
+    "city_name": "Rome",
+    "lat": 41.800358,
+    "lng": 12.591622,
+    "name": "Ciampino International Airport",
+    "timezone": "Europe/Rome"
+  },
+  "CLJ": {
+    "city_name": "Cluj",
+    "lat": 46.78495,
+    "lng": 23.685534,
+    "name": "Cluj International Airport",
+    "timezone": "Europe/Bucharest"
+  },
+  "CMN": {
+    "city_name": "Casablanca",
+    "lat": 33.36997,
+    "lng": -7.571714,
+    "name": "Mohammed V International Airport",
+    "timezone": "Africa/Casablanca"
+  },
+  "COV": {
+    "city_name": "Adana",
+    "lat": 36.900652,
+    "lng": 35.070773,
+    "name": "Cukurova International Airport",
+    "timezone": "Europe/Istanbul"
+  },
+  "CPH": {
+    "city_name": "Copenhagen",
+    "lat": 55.609772,
+    "lng": 12.635874,
+    "name": "Copenhagen Airport",
+    "timezone": "Europe/Copenhagen"
+  },
+  "CPT": {
+    "city_name": "Cape Town",
+    "lat": -33.971359,
+    "lng": 18.603007,
+    "name": "Cape Town International Airport",
+    "timezone": "Africa/Johannesburg"
+  },
+  "CRL": {
+    "city_name": "Brussels",
+    "lat": 50.460807,
+    "lng": 4.451352,
+    "name": "Brussels Charleroi Airport",
+    "timezone": "Europe/Brussels"
+  },
+  "CTA": {
+    "city_name": "Catania",
+    "lat": 37.468484,
+    "lng": 15.065331,
+    "name": "Catania\u2013Fontanarossa Airport",
+    "timezone": "Europe/Rome"
+  },
+  "CWL": {
+    "city_name": "Cardiff",
+    "lat": 51.399655,
+    "lng": -3.343353,
+    "name": "Cardiff Airport",
+    "timezone": "Europe/London"
+  },
+  "DAR": {
+    "city_name": "Dar Es Salaam",
+    "lat": -6.872098,
+    "lng": 39.20674,
+    "name": "Julius Nyerere International Airport",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "DBV": {
+    "city_name": "Dubrovnik",
+    "lat": 42.562091,
+    "lng": 18.263768,
+    "name": "Dubrovnik Airport",
+    "timezone": "Europe/Zagreb"
+  },
+  "DIA": {
+    "city_name": "Doha",
+    "lat": 25.274545,
+    "lng": 51.55478,
+    "name": "Doha International Airport",
+    "timezone": "Asia/Qatar"
+  },
+  "DLM": {
+    "city_name": "Mugla",
+    "lat": 36.706443,
+    "lng": 28.781619,
+    "name": "Dalaman Airport",
+    "timezone": "Europe/Istanbul"
+  },
+  "DMM": {
+    "city_name": "Eastern Province, KSA",
+    "lat": 26.471528,
+    "lng": 49.795915,
+    "name": "King Fahd International Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "DOH": {
+    "city_name": "Doha",
+    "lat": 25.283865,
+    "lng": 51.599431,
+    "name": "Hamad International Airport",
+    "timezone": "Asia/Qatar"
+  },
+  "DUB": {
+    "city_name": "Dublin",
+    "lat": 53.429298,
+    "lng": -6.267782,
+    "name": "Dublin Airport",
+    "timezone": "Europe/Dublin"
+  },
+  "DUR": {
+    "city_name": "Durban",
+    "lat": -29.612024,
+    "lng": 31.112599,
+    "name": "King Shaka International Airport",
+    "timezone": "Africa/Johannesburg"
+  },
+  "DUS": {
+    "city_name": "Dusseldorf",
+    "lat": 51.287925,
+    "lng": 6.768135,
+    "name": "D\u00fcsseldorf Airport",
+    "timezone": "Europe/Berlin"
+  },
+  "DWC": {
+    "city_name": "Dubai",
+    "lat": 24.891034,
+    "lng": 55.157622,
+    "name": "Al Maktoum International Airport",
+    "timezone": "Asia/Dubai"
+  },
+  "DXB": {
+    "city_name": "Dubai",
+    "lat": 25.250274,
+    "lng": 55.365896,
+    "name": "Dubai International Airport",
+    "timezone": "Asia/Dubai"
+  },
+  "EBB": {
+    "city_name": "Kampala",
+    "lat": 0.045713,
+    "lng": 32.443035,
+    "name": "Entebbe International Airport",
+    "timezone": "Africa/Kampala"
+  },
+  "EDI": {
+    "city_name": "Edinburgh",
+    "lat": 55.946249,
+    "lng": -3.364222,
+    "name": "Edinburgh Airport",
+    "timezone": "Europe/London"
+  },
+  "EIN": {
+    "city_name": "Rotterdam",
+    "lat": 51.447475,
+    "lng": 5.37506,
+    "name": "Eindhoven Airport",
+    "timezone": "Europe/Amsterdam"
+  },
+  "ELQ": {
+    "city_name": "Qassim",
+    "lat": 26.303291,
+    "lng": 43.767421,
+    "name": "Prince Nayef bin Abdulaziz Regional Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "ELS": {
+    "city_name": "East London",
+    "lat": -33.037626,
+    "lng": 27.825336,
+    "name": "East London Airport",
+    "timezone": "Africa/Johannesburg"
+  },
+  "EMA": {
+    "city_name": "Leicester",
+    "lat": 52.829266,
+    "lng": -1.339141,
+    "name": "East Midlands Airport",
+    "timezone": "Europe/London"
+  },
+  "ESB": {
+    "city_name": "Ankara",
+    "lat": 40.124159,
+    "lng": 32.997596,
+    "name": "Ankara Esenbo\u011fa International Airport",
+    "timezone": "Europe/Istanbul"
+  },
+  "FAO": {
+    "city_name": "Algarve",
+    "lat": 37.015446,
+    "lng": -7.970751,
+    "name": "Faro Airport",
+    "timezone": "Europe/Lisbon"
+  },
+  "FCO": {
+    "city_name": "Rome",
+    "lat": 41.802923,
+    "lng": 12.256278,
+    "name": "Leonardo da Vinci\u2013Fiumicino Airport",
+    "timezone": "Europe/Rome"
+  },
+  "FLR": {
+    "city_name": "Florence",
+    "lat": 43.809054,
+    "lng": 11.202463,
+    "name": "Florence Airport",
+    "timezone": "Europe/Rome"
+  },
+  "FNC": {
+    "city_name": "Funchal",
+    "lat": 32.696145,
+    "lng": -16.775793,
+    "name": "Madeira Airport",
+    "timezone": "Atlantic/Madeira"
+  },
+  "FRA": {
+    "city_name": "Frankfurt",
+    "lat": 50.032269,
+    "lng": 8.551817,
+    "name": "Frankfurt Airport",
+    "timezone": "Europe/Berlin"
+  },
+  "GDN": {
+    "city_name": "Trojmiasto",
+    "lat": 54.38009,
+    "lng": 18.467619,
+    "name": "Gda\u0144sk Lech Wa\u0142\u0119sa Airport",
+    "timezone": "Europe/Warsaw"
+  },
+  "GIZ": {
+    "city_name": "Southern Saudi",
+    "lat": 16.903057,
+    "lng": 42.582198,
+    "name": "Jizan Regional Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "GLA": {
+    "city_name": "Glasgow",
+    "lat": 55.867393,
+    "lng": -4.435089,
+    "name": "Glasgow Airport",
+    "timezone": "Europe/London"
+  },
+  "GOA": {
+    "city_name": "Genoa",
+    "lat": 44.41406,
+    "lng": 8.844273,
+    "name": "Genoa Cristoforo Colombo Airport",
+    "timezone": "Europe/Rome"
+  },
+  "GOT": {
+    "city_name": "Gothenburg",
+    "lat": 57.665198,
+    "lng": 12.288243,
+    "name": "G\u00f6teborg Landvetter Airport",
+    "timezone": "Europe/Stockholm"
+  },
+  "GRJ": {
+    "city_name": "Garden Route",
+    "lat": -34.005967,
+    "lng": 22.379128,
+    "name": "George Airport",
+    "timezone": "Africa/Johannesburg"
+  },
+  "GRX": {
+    "city_name": "Granada",
+    "lat": 37.187782,
+    "lng": -3.777887,
+    "name": "Federico Garc\u00eda Lorca Granada-Ja\u00e9n Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "GRZ": {
+    "city_name": "Graz",
+    "lat": 46.987633,
+    "lng": 15.440679,
+    "name": "Graz Airport",
+    "timezone": "Europe/Vienna"
+  },
+  "GVA": {
+    "city_name": "Geneva",
+    "lat": 46.236686,
+    "lng": 6.108909,
+    "name": "Geneva Airport",
+    "timezone": "Europe/Zurich"
+  },
+  "HAJ": {
+    "city_name": "Hanover",
+    "lat": 52.462035,
+    "lng": 9.693266,
+    "name": "Hannover Airport",
+    "timezone": "Europe/Berlin"
+  },
+  "HAS": {
+    "city_name": "North Saudi",
+    "lat": 27.441574,
+    "lng": 41.686473,
+    "name": "Ha'il Regional Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "HBE": {
+    "city_name": "Alexandria",
+    "lat": 30.9299,
+    "lng": 29.69354,
+    "name": "Borg El Arab Airport",
+    "timezone": "Africa/Cairo"
+  },
+  "HEL": {
+    "city_name": "Helsinki",
+    "lat": 60.31777,
+    "lng": 24.955087,
+    "name": "Helsinki Airport",
+    "timezone": "Europe/Helsinki"
+  },
+  "HLA": {
+    "city_name": "Johannesburg and Pretoria",
+    "lat": -25.93975,
+    "lng": 27.924632,
+    "name": "Lanseria International Airport",
+    "timezone": "Africa/Johannesburg"
+  },
+  "HOF": {
+    "city_name": "Eastern Province, KSA",
+    "lat": 25.28938,
+    "lng": 49.487456,
+    "name": "Al-Ahsa International Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "HRG": {
+    "city_name": "Hurghada",
+    "lat": 27.186432,
+    "lng": 33.800499,
+    "name": "Hurghada International Airport",
+    "timezone": "Africa/Cairo"
+  },
+  "HUY": {
+    "city_name": "Sheffield",
+    "lat": 53.574243,
+    "lng": -0.35138,
+    "name": "Humberside Airport",
+    "timezone": "Europe/London"
+  },
+  "IAS": {
+    "city_name": "Iasi",
+    "lat": 47.178315,
+    "lng": 27.618627,
+    "name": "Ia\u0219i International Airport",
+    "timezone": "Europe/Bucharest"
+  },
+  "IBZ": {
+    "city_name": "Ibiza",
+    "lat": 38.876199,
+    "lng": 1.374989,
+    "name": "Ibiza Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "INN": {
+    "city_name": "Innsbruck",
+    "lat": 47.259022,
+    "lng": 11.346421,
+    "name": "Innsbruck Airport",
+    "timezone": "Europe/Vienna"
+  },
+  "IST": {
+    "city_name": "Istanbul",
+    "lat": 41.262032,
+    "lng": 28.728043,
+    "name": "Istanbul Airport",
+    "timezone": "Europe/Istanbul"
+  },
+  "JED": {
+    "city_name": "Jeddah",
+    "lat": 21.686518,
+    "lng": 39.141883,
+    "name": "King Abdulaziz International Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "JMK": {
+    "city_name": "Mykonos",
+    "lat": 37.434962,
+    "lng": 25.346007,
+    "name": "Mykonos Island National Airport",
+    "timezone": "Europe/Athens"
+  },
+  "JNB": {
+    "city_name": "Johannesburg and Pretoria",
+    "lat": -26.135031,
+    "lng": 28.242833,
+    "name": "O. R. Tambo International Airport",
+    "timezone": "Africa/Johannesburg"
+  },
+  "JTR": {
+    "city_name": "Santorini",
+    "lat": 36.40208,
+    "lng": 25.474878,
+    "name": "Santorini International Airport",
+    "timezone": "Europe/Athens"
+  },
+  "KJJ": {
+    "city_name": "Kampala",
+    "lat": 0.196583,
+    "lng": 32.552337,
+    "name": "Kajjansi Airfield",
+    "timezone": "Africa/Kampala"
+  },
+  "KMS": {
+    "city_name": "Kumasi",
+    "lat": 6.713469,
+    "lng": -1.591412,
+    "name": "Kumasi Airport",
+    "timezone": "Africa/Accra"
+  },
+  "KRK": {
+    "city_name": "Krakow",
+    "lat": 50.073595,
+    "lng": 19.784704,
+    "name": "John Paul II International Airport Krak\u00f3w\u2013Balice",
+    "timezone": "Europe/Warsaw"
+  },
+  "KTW": {
+    "city_name": "Silesia",
+    "lat": 50.474583,
+    "lng": 19.07697,
+    "name": "Katowice Airport",
+    "timezone": "Europe/Warsaw"
+  },
+  "KUN": {
+    "city_name": "Kaunas",
+    "lat": 54.965202,
+    "lng": 24.081502,
+    "name": "Kaunas Airport",
+    "timezone": "Europe/Vilnius"
+  },
+  "LBA": {
+    "city_name": "Leeds",
+    "lat": 53.869521,
+    "lng": -1.660576,
+    "name": "Leeds Bradford Airport",
+    "timezone": "Europe/London"
+  },
+  "LCG": {
+    "city_name": "La Coruna",
+    "lat": 43.300977,
+    "lng": -8.380207,
+    "name": "A Coru\u00f1a Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "LCJ": {
+    "city_name": "Lodz",
+    "lat": 51.719663,
+    "lng": 19.392126,
+    "name": "\u0141\u00f3d\u017a W\u0142adys\u0142aw Reymont Airport",
+    "timezone": "Europe/Warsaw"
+  },
+  "LCY": {
+    "city_name": "London",
+    "lat": 51.504221,
+    "lng": 0.051727,
+    "name": "London City Airport",
+    "timezone": "Europe/London"
+  },
+  "LGW": {
+    "city_name": "London",
+    "lat": 51.153455,
+    "lng": -0.187365,
+    "name": "London Gatwick Airport",
+    "timezone": "Europe/London"
+  },
+  "LHR": {
+    "city_name": "London",
+    "lat": 51.474284,
+    "lng": -0.453232,
+    "name": "London Heathrow Airport",
+    "timezone": "Europe/London"
+  },
+  "LIL": {
+    "city_name": "Lille",
+    "lat": 50.566046,
+    "lng": 3.098692,
+    "name": "Lille Airport",
+    "timezone": "Europe/Paris"
+  },
+  "LIN": {
+    "city_name": "Milan",
+    "lat": 45.446691,
+    "lng": 9.274291,
+    "name": "Milan Linate Airport",
+    "timezone": "Europe/Rome"
+  },
+  "LIS": {
+    "city_name": "Lisbon",
+    "lat": 38.77827,
+    "lng": -9.133006,
+    "name": "Lisbon Portela Airport",
+    "timezone": "Europe/Lisbon"
+  },
+  "LJU": {
+    "city_name": "Ljubljana",
+    "lat": 46.226946,
+    "lng": 14.458774,
+    "name": "Ljubljana Airport",
+    "timezone": "Europe/Ljubljana"
+  },
+  "LOS": {
+    "city_name": "Lagos",
+    "lat": 6.575958,
+    "lng": 3.320673,
+    "name": "Murtala Muhammed International Airport",
+    "timezone": "Africa/Lagos"
+  },
+  "LPL": {
+    "city_name": "Merseyside",
+    "lat": 53.336117,
+    "lng": -2.85961,
+    "name": "Liverpool John Lennon Airport",
+    "timezone": "Europe/London"
+  },
+  "LTN": {
+    "city_name": "London",
+    "lat": 51.877357,
+    "lng": -0.372834,
+    "name": "London Luton Airport",
+    "timezone": "Europe/London"
+  },
+  "LUX": {
+    "city_name": "Luxembourg",
+    "lat": 49.624477,
+    "lng": 6.207253,
+    "name": "Luxembourg Airport",
+    "timezone": "Europe/Luxembourg"
+  },
+  "LYS": {
+    "city_name": "Lyon",
+    "lat": 45.726394,
+    "lng": 5.080636,
+    "name": "Lyon\u2013Saint-Exup\u00e9ry Airport",
+    "timezone": "Europe/Paris"
+  },
+  "MAD": {
+    "city_name": "Madrid",
+    "lat": 40.478719,
+    "lng": -3.565434,
+    "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "MAN": {
+    "city_name": "Manchester",
+    "lat": 53.352566,
+    "lng": -2.288635,
+    "name": "Manchester Airport",
+    "timezone": "Europe/London"
+  },
+  "MBA": {
+    "city_name": "Mombasa",
+    "lat": -4.028977,
+    "lng": 39.600142,
+    "name": "Moi International Airport",
+    "timezone": "Africa/Nairobi"
+  },
+  "MED": {
+    "city_name": "Madinah",
+    "lat": 24.553702,
+    "lng": 39.709868,
+    "name": "Prince Mohammad bin Abdulaziz Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "MLA": {
+    "city_name": "Malta",
+    "lat": 35.848142,
+    "lng": 14.484415,
+    "name": "Malta International Airport",
+    "timezone": "Europe/Malta"
+  },
+  "MMX": {
+    "city_name": "Malm\u00f6 and Helsingborg",
+    "lat": 55.532252,
+    "lng": 13.371212,
+    "name": "Malm\u00f6 Airport",
+    "timezone": "Europe/Stockholm"
+  },
+  "MPL": {
+    "city_name": "Montpellier",
+    "lat": 43.580981,
+    "lng": 3.956137,
+    "name": "Montpellier\u2013M\u00e9diterran\u00e9e Airport",
+    "timezone": "Europe/Paris"
+  },
+  "MRS": {
+    "city_name": "Marseille",
+    "lat": 43.438989,
+    "lng": 5.215932,
+    "name": "Marseille Provence Airport",
+    "timezone": "Europe/Paris"
+  },
+  "MUC": {
+    "city_name": "Munich",
+    "lat": 48.352634,
+    "lng": 11.781854,
+    "name": "Munich Airport",
+    "timezone": "Europe/Berlin"
+  },
+  "MXP": {
+    "city_name": "Milan",
+    "lat": 45.629168,
+    "lng": 8.731114,
+    "name": "Milan Malpensa Airport",
+    "timezone": "Europe/Rome"
+  },
+  "NAP": {
+    "city_name": "Napoli",
+    "lat": 40.877596,
+    "lng": 14.288927,
+    "name": "Naples International Airport",
+    "timezone": "Europe/Rome"
+  },
+  "NBO": {
+    "city_name": "Nairobi",
+    "lat": -1.32106,
+    "lng": 36.926007,
+    "name": "Jomo Kenyatta International Airport",
+    "timezone": "Africa/Nairobi"
+  },
+  "NCE": {
+    "city_name": "Nice",
+    "lat": 43.65813,
+    "lng": 7.214238,
+    "name": "Nice C\u00f4te d'Azur Airport",
+    "timezone": "Europe/Paris"
+  },
+  "NCL": {
+    "city_name": "North East, UK",
+    "lat": 55.039589,
+    "lng": -1.696223,
+    "name": "Newcastle International Airport",
+    "timezone": "Europe/London"
+  },
+  "NTE": {
+    "city_name": "Nantes",
+    "lat": 47.15371,
+    "lng": -1.609403,
+    "name": "Nantes Atlantique Airport",
+    "timezone": "Europe/Paris"
+  },
+  "OLB": {
+    "city_name": "Olbia",
+    "lat": 40.901504,
+    "lng": 9.515149,
+    "name": "Olbia Costa Smeralda Airport",
+    "timezone": "Europe/Rome"
+  },
+  "OPO": {
+    "city_name": "Porto",
+    "lat": 41.242408,
+    "lng": -8.678242,
+    "name": "Francisco S\u00e1 Carneiro Airport",
+    "timezone": "Europe/Lisbon"
+  },
+  "ORY": {
+    "city_name": "Paris",
+    "lat": 48.729337,
+    "lng": 2.368211,
+    "name": "Paris Orly Airport",
+    "timezone": "Europe/Paris"
+  },
+  "OSL": {
+    "city_name": "Oslo",
+    "lat": 60.194367,
+    "lng": 11.094101,
+    "name": "Oslo Airport",
+    "timezone": "Europe/Oslo"
+  },
+  "OTP": {
+    "city_name": "Bucharest",
+    "lat": 44.567287,
+    "lng": 26.094644,
+    "name": "Henri Coand\u0103 International Airport",
+    "timezone": "Europe/Bucharest"
+  },
+  "OUL": {
+    "city_name": "Oulu",
+    "lat": 64.931322,
+    "lng": 25.358977,
+    "name": "Oulu Airport",
+    "timezone": "Europe/Helsinki"
+  },
+  "PAS": {
+    "city_name": "Paros",
+    "lat": 37.021965,
+    "lng": 25.114294,
+    "name": "Paros Airport",
+    "timezone": "Europe/Athens"
+  },
+  "PIK": {
+    "city_name": "Glasgow",
+    "lat": 55.506548,
+    "lng": -4.591358,
+    "name": "Glasgow Prestwick Airport",
+    "timezone": "Europe/London"
+  },
+  "PLZ": {
+    "city_name": "Port Elizabeth",
+    "lat": -33.988154,
+    "lng": 25.610121,
+    "name": "Port Elizabeth Airport",
+    "timezone": "Africa/Johannesburg"
+  },
+  "PMI": {
+    "city_name": "Mallorca",
+    "lat": 39.553574,
+    "lng": 2.7421,
+    "name": "Palma de Mallorca Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "PMO": {
+    "city_name": "Palermo",
+    "lat": 38.181836,
+    "lng": 13.099339,
+    "name": "Falcone Borsellino Airport",
+    "timezone": "Europe/Rome"
+  },
+  "POZ": {
+    "city_name": "Poznan",
+    "lat": 52.419819,
+    "lng": 16.833136,
+    "name": "Pozna\u0144\u2013\u0141awica Airport",
+    "timezone": "Europe/Warsaw"
+  },
+  "PRG": {
+    "city_name": "Prague",
+    "lat": 50.101038,
+    "lng": 14.264249,
+    "name": "V\u00e1clav Havel Airport Prague",
+    "timezone": "Europe/Prague"
+  },
+  "REG": {
+    "city_name": "Reggio Calabria",
+    "lat": 38.073987,
+    "lng": 15.648595,
+    "name": "Reggio di Calabria Airport",
+    "timezone": "Europe/Rome"
+  },
+  "RTM": {
+    "city_name": "Rotterdam",
+    "lat": 51.953194,
+    "lng": 4.43853,
+    "name": "Rotterdam The Hague Airport",
+    "timezone": "Europe/Amsterdam"
+  },
+  "RUH": {
+    "city_name": "Riyadh",
+    "lat": 24.946703,
+    "lng": 46.704999,
+    "name": "King Khalid International Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "SAW": {
+    "city_name": "Istanbul",
+    "lat": 40.901142,
+    "lng": 29.308973,
+    "name": "Sabiha G\u00f6k\u00e7en International Airport",
+    "timezone": "Europe/Istanbul"
+  },
+  "SDR": {
+    "city_name": "Santander",
+    "lat": 43.426354,
+    "lng": -3.821516,
+    "name": "Santander Seve Ballesteros Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "SKG": {
+    "city_name": "Thessaloniki",
+    "lat": 40.522255,
+    "lng": 22.969346,
+    "name": "Makedonia Airport Thessaloniki",
+    "timezone": "Europe/Athens"
+  },
+  "SNN": {
+    "city_name": "Limerick",
+    "lat": 52.699024,
+    "lng": -8.918454,
+    "name": "Shannon Airport",
+    "timezone": "Europe/Dublin"
+  },
+  "SOU": {
+    "city_name": "South Coast, UK",
+    "lat": 50.950381,
+    "lng": -1.35791,
+    "name": "Southampton Airport",
+    "timezone": "Europe/London"
+  },
+  "SPU": {
+    "city_name": "Split",
+    "lat": 43.537194,
+    "lng": 16.298963,
+    "name": "Split Airport",
+    "timezone": "Europe/Zagreb"
+  },
+  "SPX": {
+    "city_name": "Cairo",
+    "lat": 30.105479,
+    "lng": 30.928208,
+    "name": "Cairo Sphinx Airport",
+    "timezone": "Africa/Cairo"
+  },
+  "STN": {
+    "city_name": "London",
+    "lat": 51.884506,
+    "lng": 0.243008,
+    "name": "London Stansted Airport",
+    "timezone": "Europe/London"
+  },
+  "STR": {
+    "city_name": "Stuttgart",
+    "lat": 48.686951,
+    "lng": 9.204158,
+    "name": "Stuttgart Airport",
+    "timezone": "Europe/Berlin"
+  },
+  "SUF": {
+    "city_name": "Calabria",
+    "lat": 38.905983,
+    "lng": 16.2458,
+    "name": "SUF Lamezia Terme Airport",
+    "timezone": "Europe/Rome"
+  },
+  "SVG": {
+    "city_name": "Stavanger",
+    "lat": 58.878454,
+    "lng": 5.632401,
+    "name": "Stavanger Airport",
+    "timezone": "Europe/Oslo"
+  },
+  "SVQ": {
+    "city_name": "Seville",
+    "lat": 37.420871,
+    "lng": -5.896559,
+    "name": "Seville Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "SXB": {
+    "city_name": "Strasbourg",
+    "lat": 48.53945,
+    "lng": 7.626345,
+    "name": "Strasbourg Airport",
+    "timezone": "Europe/Paris"
+  },
+  "SZG": {
+    "city_name": "Salzburg",
+    "lat": 47.793,
+    "lng": 13.001659,
+    "name": "Salzburg Airport",
+    "timezone": "Europe/Vienna"
+  },
+  "TFN": {
+    "city_name": "Tenerife",
+    "lat": 28.485194,
+    "lng": -16.345561,
+    "name": "Tenerife North Airport",
+    "timezone": "Atlantic/Canary"
+  },
+  "TFS": {
+    "city_name": "Tenerife",
+    "lat": 28.047338,
+    "lng": -16.575365,
+    "name": "Tenerife South Airport",
+    "timezone": "Atlantic/Canary"
+  },
+  "TIF": {
+    "city_name": "Mecca",
+    "lat": 21.482676,
+    "lng": 40.544197,
+    "name": "Ta'if Regional Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "TKU": {
+    "city_name": "Turku",
+    "lat": 60.513615,
+    "lng": 22.268067,
+    "name": "Turku Airport",
+    "timezone": "Europe/Helsinki"
+  },
+  "TLL": {
+    "city_name": "Tallinn",
+    "lat": 59.414194,
+    "lng": 24.834081,
+    "name": "Tallinn Airport",
+    "timezone": "Europe/Tallinn"
+  },
+  "TLS": {
+    "city_name": "Toulouse",
+    "lat": 43.631117,
+    "lng": 1.36978,
+    "name": "Toulouse\u2013Blagnac Airport",
+    "timezone": "Europe/Paris"
+  },
+  "TMP": {
+    "city_name": "Tampere",
+    "lat": 61.412081,
+    "lng": 23.604436,
+    "name": "Tampere\u2013Pirkkala Airport",
+    "timezone": "Europe/Helsinki"
+  },
+  "TRD": {
+    "city_name": "Trondheim",
+    "lat": 63.45744,
+    "lng": 10.914659,
+    "name": "Trondheim Airport",
+    "timezone": "Europe/Oslo"
+  },
+  "TRN": {
+    "city_name": "Turin",
+    "lat": 45.197775,
+    "lng": 7.649454,
+    "name": "Turin Airport",
+    "timezone": "Europe/Rome"
+  },
+  "TRS": {
+    "city_name": "Gorizia",
+    "lat": 45.826522,
+    "lng": 13.473905,
+    "name": "Trieste \u2013 Friuli Venezia Giulia Airport",
+    "timezone": "Europe/Rome"
+  },
+  "TSF": {
+    "city_name": "Treviso",
+    "lat": 45.64855,
+    "lng": 12.191974,
+    "name": "Treviso Airport",
+    "timezone": "Europe/Rome"
+  },
+  "TSR": {
+    "city_name": "Timisoara",
+    "lat": 45.809972,
+    "lng": 21.330193,
+    "name": "Timi\u0219oara Traian Vuia International Airport",
+    "timezone": "Europe/Bucharest"
+  },
+  "TUU": {
+    "city_name": "Tabuk",
+    "lat": 28.375802,
+    "lng": 36.629144,
+    "name": "Tabuk Regional Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "TXL": {
+    "city_name": "Berlin",
+    "lat": 52.55653,
+    "lng": 13.289349,
+    "name": "Tegel Airport Berlin",
+    "timezone": "Europe/Berlin"
+  },
+  "UKA": {
+    "city_name": "Mombasa",
+    "lat": -4.292466,
+    "lng": 39.571301,
+    "name": "Ukunda Airport",
+    "timezone": "Africa/Nairobi"
+  },
+  "VCE": {
+    "city_name": "Padua",
+    "lat": 45.506917,
+    "lng": 12.333458,
+    "name": "Venice Marco Polo Airport",
+    "timezone": "Europe/Rome"
+  },
+  "VIE": {
+    "city_name": "Vienna",
+    "lat": 48.112414,
+    "lng": 16.557613,
+    "name": "Vienna International Airport",
+    "timezone": "Europe/Vienna"
+  },
+  "VLC": {
+    "city_name": "Valencia",
+    "lat": 39.489771,
+    "lng": -0.482749,
+    "name": "Valencia Airport",
+    "timezone": "Europe/Madrid"
+  },
+  "VNO": {
+    "city_name": "Vilnius",
+    "lat": 54.635844,
+    "lng": 25.287936,
+    "name": "Vilnius Airport",
+    "timezone": "Europe/Vilnius"
+  },
+  "VRN": {
+    "city_name": "Verona",
+    "lat": 45.398231,
+    "lng": 10.885081,
+    "name": "Verona Villafranca Airport",
+    "timezone": "Europe/Rome"
+  },
+  "WAW": {
+    "city_name": "Warsaw",
+    "lat": 52.163546,
+    "lng": 20.968432,
+    "name": "Warsaw Chopin Airport",
+    "timezone": "Europe/Warsaw"
+  },
+  "WIL": {
+    "city_name": "Nairobi",
+    "lat": -1.324155,
+    "lng": 36.813548,
+    "name": "Wilson Airport",
+    "timezone": "Africa/Nairobi"
+  },
+  "WMI": {
+    "city_name": "Warsaw",
+    "lat": 52.449395,
+    "lng": 20.658396,
+    "name": "Warsaw Modlin Airport",
+    "timezone": "Europe/Warsaw"
+  },
+  "WRO": {
+    "city_name": "Wroclaw",
+    "lat": 51.104371,
+    "lng": 16.888281,
+    "name": "Copernicus Airport Wroc\u0142aw",
+    "timezone": "Europe/Warsaw"
+  },
+  "YNB": {
+    "city_name": "Madinah",
+    "lat": 24.145726,
+    "lng": 38.058344,
+    "name": "Prince Abdul Mohsin bin Abdulaziz Airport",
+    "timezone": "Asia/Riyadh"
+  },
+  "ZAD": {
+    "city_name": "Zadar",
+    "lat": 44.10577,
+    "lng": 15.343089,
+    "name": "Zadar Airport",
+    "timezone": "Europe/Zagreb"
+  },
+  "ZAG": {
+    "city_name": "Zagreb",
+    "lat": 45.74116,
+    "lng": 16.071538,
+    "name": "Zagreb Airport",
+    "timezone": "Europe/Zagreb"
+  },
+  "ZRH": {
+    "city_name": "Zurich",
+    "lat": 47.460462,
+    "lng": 8.552036,
+    "name": "Zurich Airport",
+    "timezone": "Europe/Zurich"
+  }
+}

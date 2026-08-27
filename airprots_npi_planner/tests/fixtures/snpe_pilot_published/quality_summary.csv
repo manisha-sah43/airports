@@ -1,0 +1,11 @@
+airport_code,trip_type,current_sample_coverage,current_g_coverage,npi_quality,to_be_wo_exclusion_sample_coverage,to_be_wo_exclusion_g_coverage,to_be_wo_exclusion_time_NPI_quality,to_be_wo_exclusion_NPI_quality,to_be_with_exclusion_sample_coverage,to_be_with_exclusion_g_coverage,to_be_with_exclusion_time_NPI_quality,to_be_with_exclusion_NPI_quality,n_obs_current,n_routes_current,n_obs_to_be_added,n_extraction_rows,n_routes_to_be_added
+LHR,PU,0.6131,0.2292,Unacceptable,0.8103,0.8503,Moderate,Good,0.8103,0.8503,Moderate,Good,15,29,1032,1032,349
+LGW,PU,0.1645,0.0472,Unacceptable,0.8041,0.7007,Moderate,Good,0.8041,0.7007,Moderate,Good,4,7,614,614,187
+STN,PU,0.3363,0.093,Unacceptable,0.7608,0.701,Moderate,Good,0.7608,0.701,Moderate,Good,6,11,462,462,159
+LTN,PU,0.1474,0.0117,Unacceptable,0.8498,0.7012,Moderate,Good,0.8498,0.7012,Moderate,Good,2,5,575,575,182
+JNB,PU,0.5135,0.2146,Unacceptable,0.9003,0.6174,Moderate,Good,0.9003,0.6174,Moderate,Good,28,19,404,404,90
+WAW,PU,0.0,0.0,Unacceptable,0.8046,0.6071,Poor,Moderate,0.8046,0.6071,Poor,Moderate,0,0,77,77,15
+CPT,PU,0.0,0.0,Unacceptable,0.8591,0.7007,Moderate,Good,0.8591,0.7007,Moderate,Good,0,0,200,200,46
+CDG,DO,0.8241,0.3425,Unacceptable,0.8688,0.7031,Moderate,Good,0.8688,0.7031,Moderate,Good,63,17,217,217,47
+ORY,DO,0.7366,0.1818,Unacceptable,0.9157,0.6251,Moderate,Good,0.9157,0.6251,Moderate,Good,38,8,226,226,47
+WAW,DO,0.7285,0.1179,Unacceptable,0.8392,0.6007,Poor,Moderate,0.8392,0.6007,Poor,Moderate,331,2,79,79,17

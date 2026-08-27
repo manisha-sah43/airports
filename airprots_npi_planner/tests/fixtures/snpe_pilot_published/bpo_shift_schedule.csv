@@ -1,0 +1,121 @@
+day,hour_utc,slot,n_obs,breakdown
+Mon,0,Mon 00:00Z,30,LGW/PU/wkd_night:14; LHR/PU/wkd_night:12; LTN/PU/wkd_night:4
+Mon,1,Mon 01:00Z,30,JNB/PU/wkd_night:2; LGW/PU/wkd_night:17; LHR/PU/wkd_night:1; LTN/PU/wkd_night:10
+Mon,2,Mon 02:00Z,30,CDG/DO/wkd_night:3; JNB/PU/wkd_night:15; LGW/PU/wkd_night:4; LTN/PU/wkd_night:4; ORY/DO/wkd_night:4
+Mon,3,Mon 03:00Z,30,CDG/DO/wkd_night:11; CPT/PU/wkd_night:1; JNB/PU/wkd_night:5; LGW/PU/wkd_night:2; ORY/DO/wkd_night:11
+Mon,4,Mon 04:00Z,30,CDG/DO/wkd_night:12; JNB/PU/wkd_night:7; LTN/PU/wkd_night:1; ORY/DO/wkd_night:10
+Mon,5,Mon 05:00Z,30,CDG/DO/wkd_morning:4; CPT/PU/wkd_morning:5; JNB/PU/wkd_morning:13; ORY/DO/wkd_morning:4; WAW/DO/wkd_morning:3; WAW/PU/wkd_morning:1
+Mon,6,Mon 06:00Z,30,LHR/PU/wkd_morning:30
+Mon,7,Mon 07:00Z,30,LHR/PU/wkd_morning:30
+Mon,8,Mon 08:00Z,30,LGW/PU/wkd_morning:2; LHR/PU/wkd_morning:26; LTN/PU/wkd_morning:2
+Mon,9,Mon 09:00Z,30,LGW/PU/wkd_morning:8; LHR/PU/wkd_morning:14; LTN/PU/wkd_morning:6; STN/PU/wkd_morning:2
+Mon,10,Mon 10:00Z,30,CDG/DO/wkd_day:4; CPT/PU/wkd_day:7; JNB/PU/wkd_day:12; ORY/DO/wkd_day:2; WAW/DO/wkd_day:1; WAW/PU/wkd_day:4
+Mon,11,Mon 11:00Z,30,CDG/DO/wkd_day:1; CPT/PU/wkd_day:3; JNB/PU/wkd_day:1; LGW/PU/wkd_day:8; LHR/PU/wkd_day:9; LTN/PU/wkd_day:5; ORY/DO/wkd_day:1; STN/PU/wkd_day:2
+Mon,12,Mon 12:00Z,30,CPT/PU/wkd_day:2; JNB/PU/wkd_day:3; LGW/PU/wkd_day:8; LHR/PU/wkd_day:5; LTN/PU/wkd_day:7; STN/PU/wkd_day:4; WAW/PU/wkd_day:1
+Mon,13,Mon 13:00Z,30,CPT/PU/wkd_day:1; JNB/PU/wkd_day:4; LGW/PU/wkd_day:7; LHR/PU/wkd_day:7; LTN/PU/wkd_day:6; ORY/DO/wkd_day:1; STN/PU/wkd_day:4
+Mon,14,Mon 14:00Z,30,CDG/DO/wkd_day:1; CPT/PU/wkd_day:1; LGW/PU/wkd_day:7; LHR/PU/wkd_day:7; LTN/PU/wkd_day:8; ORY/DO/wkd_day:3; STN/PU/wkd_day:1; WAW/DO/wkd_day:2
+Mon,15,Mon 15:00Z,30,CDG/DO/wkd_day:1; CPT/PU/wkd_day:1; JNB/PU/wkd_day:2; LGW/PU/wkd_day:6; LHR/PU/wkd_day:9; LTN/PU/wkd_day:6; STN/PU/wkd_day:4; WAW/PU/wkd_day:1
+Mon,16,Mon 16:00Z,30,CPT/PU/wkd_evening:2; JNB/PU/wkd_evening:10; LGW/PU/wkd_day:6; LHR/PU/wkd_day:3; LTN/PU/wkd_day:4; ORY/DO/wkd_evening:2; STN/PU/wkd_day:3
+Mon,17,Mon 17:00Z,30,CPT/PU/wkd_evening:3; JNB/PU/wkd_evening:7; LGW/PU/wkd_evening:1; LHR/PU/wkd_evening:9; LTN/PU/wkd_evening:6; ORY/DO/wkd_evening:2; STN/PU/wkd_evening:1; WAW/DO/wkd_evening:1
+Mon,18,Mon 18:00Z,30,CPT/PU/wkd_evening:2; JNB/PU/wkd_evening:6; LGW/PU/wkd_evening:2; LHR/PU/wkd_evening:9; LTN/PU/wkd_evening:8; STN/PU/wkd_evening:2; WAW/PU/wkd_evening:1
+Mon,19,Mon 19:00Z,30,CPT/PU/wkd_late_evening:1; LGW/PU/wkd_evening:3; LHR/PU/wkd_evening:6; LTN/PU/wkd_evening:5; ORY/DO/wkd_late_evening:2; STN/PU/wkd_evening:2; WAW/PU/wkd_late_evening:11
+Mon,20,Mon 20:00Z,30,LGW/PU/wkd_late_evening:17; LTN/PU/wkd_late_evening:11; STN/PU/wkd_late_evening:2
+Mon,21,Mon 21:00Z,30,LGW/PU/wkd_late_evening:12; LTN/PU/wkd_late_evening:7; STN/PU/wkd_late_evening:11
+Mon,22,Mon 22:00Z,30,LGW/PU/wkd_late_evening:10; LTN/PU/wkd_late_evening:9; STN/PU/wkd_late_evening:11
+Tue,0,Tue 00:00Z,30,CDG/DO/wkd_night:8; CPT/PU/wkd_night:1; JNB/PU/wkd_night:2; LGW/PU/wkd_night:1; LTN/PU/wkd_night:1; ORY/DO/wkd_night:10; WAW/DO/wkd_night:7
+Tue,1,Tue 01:00Z,30,CDG/DO/wkd_night:8; JNB/PU/wkd_night:5; ORY/DO/wkd_night:7; WAW/DO/wkd_night:10
+Tue,2,Tue 02:00Z,4,CDG/DO/wkd_night:2; ORY/DO/wkd_night:2
+Tue,5,Tue 05:00Z,30,CDG/DO/wkd_morning:5; CPT/PU/wkd_morning:7; JNB/PU/wkd_morning:11; ORY/DO/wkd_morning:4; WAW/DO/wkd_morning:1; WAW/PU/wkd_morning:2
+Tue,6,Tue 06:00Z,30,LGW/PU/wkd_morning:10; LHR/PU/wkd_morning:12; LTN/PU/wkd_morning:5; STN/PU/wkd_morning:3
+Tue,7,Tue 07:00Z,30,CDG/DO/wkd_morning:1; LGW/PU/wkd_morning:3; LHR/PU/wkd_morning:17; LTN/PU/wkd_morning:6; STN/PU/wkd_morning:3
+Tue,8,Tue 08:00Z,30,LGW/PU/wkd_morning:7; LHR/PU/wkd_morning:15; LTN/PU/wkd_morning:3; STN/PU/wkd_morning:5
+Tue,9,Tue 09:00Z,30,LGW/PU/wkd_morning:7; LHR/PU/wkd_morning:11; LTN/PU/wkd_morning:8; STN/PU/wkd_morning:4
+Tue,10,Tue 10:00Z,30,CDG/DO/wkd_day:4; CPT/PU/wkd_day:5; JNB/PU/wkd_day:13; ORY/DO/wkd_day:5; WAW/DO/wkd_day:2; WAW/PU/wkd_day:1
+Tue,11,Tue 11:00Z,30,CDG/DO/wkd_day:2; LGW/PU/wkd_day:5; LHR/PU/wkd_day:11; LTN/PU/wkd_day:4; ORY/DO/wkd_day:1; STN/PU/wkd_day:5; WAW/DO/wkd_day:1; WAW/PU/wkd_day:1
+Tue,12,Tue 12:00Z,30,CDG/DO/wkd_day:1; JNB/PU/wkd_day:2; LGW/PU/wkd_day:6; LHR/PU/wkd_day:7; LTN/PU/wkd_day:2; ORY/DO/wkd_day:2; STN/PU/wkd_day:10
+Tue,13,Tue 13:00Z,30,CDG/DO/wkd_day:1; CPT/PU/wkd_day:1; JNB/PU/wkd_day:1; LGW/PU/wkd_day:6; LHR/PU/wkd_day:2; LTN/PU/wkd_day:11; ORY/DO/wkd_day:1; STN/PU/wkd_day:7
+Tue,14,Tue 14:00Z,30,CDG/DO/wkd_day:1; JNB/PU/wkd_day:2; LGW/PU/wkd_day:4; LHR/PU/wkd_day:9; LTN/PU/wkd_day:4; ORY/DO/wkd_day:1; STN/PU/wkd_day:9
+Tue,15,Tue 15:00Z,30,JNB/PU/wkd_day:4; LGW/PU/wkd_day:7; LHR/PU/wkd_day:3; LTN/PU/wkd_day:8; STN/PU/wkd_day:6; WAW/DO/wkd_day:1; WAW/PU/wkd_day:1
+Tue,16,Tue 16:00Z,30,CDG/DO/wkd_evening:2; CPT/PU/wkd_evening:6; JNB/PU/wkd_evening:14; ORY/DO/wkd_evening:3; WAW/DO/wkd_evening:1; WAW/PU/wkd_evening:4
+Tue,17,Tue 17:00Z,30,CPT/PU/wkd_evening:2; JNB/PU/wkd_evening:3; LGW/PU/wkd_evening:2; LHR/PU/wkd_evening:9; LTN/PU/wkd_evening:8; STN/PU/wkd_evening:5; WAW/PU/wkd_evening:1
+Tue,18,Tue 18:00Z,30,LGW/PU/wkd_evening:8; LHR/PU/wkd_evening:9; LTN/PU/wkd_evening:8; STN/PU/wkd_evening:5
+Tue,19,Tue 19:00Z,30,LGW/PU/wkd_evening:4; LHR/PU/wkd_evening:15; LTN/PU/wkd_evening:4; STN/PU/wkd_evening:5; WAW/PU/wkd_late_evening:2
+Tue,20,Tue 20:00Z,30,LGW/PU/wkd_late_evening:11; LTN/PU/wkd_late_evening:7; STN/PU/wkd_late_evening:12
+Tue,21,Tue 21:00Z,30,LGW/PU/wkd_late_evening:12; LTN/PU/wkd_late_evening:8; STN/PU/wkd_late_evening:10
+Tue,22,Tue 22:00Z,30,LGW/PU/wkd_late_evening:10; LTN/PU/wkd_late_evening:10; STN/PU/wkd_late_evening:10
+Wed,5,Wed 05:00Z,30,CDG/DO/wkd_morning:9; CPT/PU/wkd_morning:4; JNB/PU/wkd_morning:11; ORY/DO/wkd_morning:4; WAW/DO/wkd_morning:1; WAW/PU/wkd_morning:1
+Wed,6,Wed 06:00Z,30,LGW/PU/wkd_morning:5; LHR/PU/wkd_morning:15; LTN/PU/wkd_morning:7; STN/PU/wkd_morning:3
+Wed,7,Wed 07:00Z,30,LGW/PU/wkd_morning:8; LHR/PU/wkd_morning:11; LTN/PU/wkd_morning:6; STN/PU/wkd_morning:5
+Wed,8,Wed 08:00Z,30,JNB/PU/wkd_morning:1; LGW/PU/wkd_morning:5; LHR/PU/wkd_morning:14; LTN/PU/wkd_morning:4; STN/PU/wkd_morning:6
+Wed,9,Wed 09:00Z,30,LGW/PU/wkd_morning:5; LHR/PU/wkd_morning:12; LTN/PU/wkd_morning:7; STN/PU/wkd_morning:6
+Wed,10,Wed 10:00Z,30,CDG/DO/wkd_day:5; CPT/PU/wkd_day:8; JNB/PU/wkd_day:9; ORY/DO/wkd_day:4; WAW/DO/wkd_day:3; WAW/PU/wkd_day:1
+Wed,11,Wed 11:00Z,30,JNB/PU/wkd_day:2; LGW/PU/wkd_day:4; LHR/PU/wkd_day:9; LTN/PU/wkd_day:10; ORY/DO/wkd_day:1; STN/PU/wkd_day:4
+Wed,12,Wed 12:00Z,30,CDG/DO/wkd_day:3; JNB/PU/wkd_day:1; LGW/PU/wkd_day:6; LHR/PU/wkd_day:3; LTN/PU/wkd_day:7; STN/PU/wkd_day:10
+Wed,13,Wed 13:00Z,30,JNB/PU/wkd_day:2; LGW/PU/wkd_day:8; LHR/PU/wkd_day:7; LTN/PU/wkd_day:8; ORY/DO/wkd_day:1; STN/PU/wkd_day:4
+Wed,14,Wed 14:00Z,30,CDG/DO/wkd_day:1; LGW/PU/wkd_day:5; LHR/PU/wkd_day:10; LTN/PU/wkd_day:6; ORY/DO/wkd_day:1; STN/PU/wkd_day:6; WAW/PU/wkd_day:1
+Wed,15,Wed 15:00Z,30,CDG/DO/wkd_day:1; JNB/PU/wkd_day:1; LGW/PU/wkd_day:6; LHR/PU/wkd_day:7; LTN/PU/wkd_day:7; STN/PU/wkd_day:7; WAW/DO/wkd_day:1
+Wed,16,Wed 16:00Z,30,CDG/DO/wkd_evening:1; CPT/PU/wkd_evening:9; JNB/PU/wkd_evening:16; ORY/DO/wkd_evening:1; WAW/PU/wkd_evening:3
+Wed,17,Wed 17:00Z,30,LGW/PU/wkd_evening:10; LHR/PU/wkd_evening:11; LTN/PU/wkd_evening:4; STN/PU/wkd_evening:5
+Wed,18,Wed 18:00Z,30,LGW/PU/wkd_evening:3; LHR/PU/wkd_evening:12; LTN/PU/wkd_evening:5; STN/PU/wkd_evening:10
+Wed,19,Wed 19:00Z,30,LGW/PU/wkd_evening:5; LHR/PU/wkd_evening:15; LTN/PU/wkd_evening:6; STN/PU/wkd_evening:4
+Wed,20,Wed 20:00Z,30,LGW/PU/wkd_late_evening:10; LTN/PU/wkd_late_evening:9; STN/PU/wkd_late_evening:11
+Wed,21,Wed 21:00Z,30,LGW/PU/wkd_late_evening:11; LTN/PU/wkd_late_evening:7; STN/PU/wkd_late_evening:12
+Wed,22,Wed 22:00Z,30,LGW/PU/wkd_late_evening:11; LTN/PU/wkd_late_evening:9; STN/PU/wkd_late_evening:10
+Thu,5,Thu 05:00Z,30,CDG/DO/wkd_morning:3; CPT/PU/wkd_morning:5; JNB/PU/wkd_morning:14; ORY/DO/wkd_morning:8
+Thu,6,Thu 06:00Z,30,LGW/PU/wkd_morning:7; LHR/PU/wkd_morning:16; LTN/PU/wkd_morning:3; STN/PU/wkd_morning:4
+Thu,7,Thu 07:00Z,30,LGW/PU/wkd_morning:8; LHR/PU/wkd_morning:8; LTN/PU/wkd_morning:8; STN/PU/wkd_morning:6
+Thu,8,Thu 08:00Z,30,LGW/PU/wkd_morning:8; LHR/PU/wkd_morning:10; LTN/PU/wkd_morning:6; STN/PU/wkd_morning:6
+Thu,9,Thu 09:00Z,30,CDG/DO/wkd_morning:1; JNB/PU/wkd_morning:2; LGW/PU/wkd_morning:12; LHR/PU/wkd_morning:7; LTN/PU/wkd_morning:3; ORY/DO/wkd_morning:1; STN/PU/wkd_morning:4
+Thu,10,Thu 10:00Z,30,CDG/DO/wkd_day:7; CPT/PU/wkd_day:6; JNB/PU/wkd_day:6; ORY/DO/wkd_day:6; WAW/DO/wkd_day:2; WAW/PU/wkd_day:3
+Thu,11,Thu 11:00Z,30,JNB/PU/wkd_day:1; LGW/PU/wkd_day:6; LHR/PU/wkd_day:7; LTN/PU/wkd_day:8; STN/PU/wkd_day:8
+Thu,12,Thu 12:00Z,30,JNB/PU/wkd_day:1; LGW/PU/wkd_day:8; LHR/PU/wkd_day:5; LTN/PU/wkd_day:7; STN/PU/wkd_day:9
+Thu,13,Thu 13:00Z,30,JNB/PU/wkd_day:1; LGW/PU/wkd_day:6; LHR/PU/wkd_day:6; LTN/PU/wkd_day:11; STN/PU/wkd_day:6
+Thu,14,Thu 14:00Z,30,LGW/PU/wkd_day:12; LHR/PU/wkd_day:5; LTN/PU/wkd_day:7; STN/PU/wkd_day:5; WAW/DO/wkd_day:1
+Thu,15,Thu 15:00Z,30,LGW/PU/wkd_day:8; LHR/PU/wkd_day:7; LTN/PU/wkd_day:7; STN/PU/wkd_day:8
+Thu,16,Thu 16:00Z,30,CPT/PU/wkd_evening:7; JNB/PU/wkd_evening:18; ORY/DO/wkd_evening:2; WAW/PU/wkd_evening:3
+Thu,17,Thu 17:00Z,30,LGW/PU/wkd_evening:2; LHR/PU/wkd_evening:8; LTN/PU/wkd_evening:13; STN/PU/wkd_evening:7
+Thu,18,Thu 18:00Z,30,LGW/PU/wkd_evening:3; LHR/PU/wkd_evening:13; LTN/PU/wkd_evening:9; STN/PU/wkd_evening:5
+Thu,19,Thu 19:00Z,30,LGW/PU/wkd_evening:3; LHR/PU/wkd_evening:13; LTN/PU/wkd_evening:6; STN/PU/wkd_evening:8
+Thu,20,Thu 20:00Z,30,LGW/PU/wkd_late_evening:11; LTN/PU/wkd_late_evening:8; STN/PU/wkd_late_evening:11
+Thu,21,Thu 21:00Z,30,LGW/PU/wkd_late_evening:10; LTN/PU/wkd_late_evening:10; STN/PU/wkd_late_evening:10
+Thu,22,Thu 22:00Z,30,LGW/PU/wkd_late_evening:11; LTN/PU/wkd_late_evening:8; STN/PU/wkd_late_evening:11
+Fri,5,Fri 05:00Z,30,CDG/DO/wkd_morning:3; CPT/PU/wkd_morning:4; JNB/PU/wkd_morning:11; ORY/DO/wkd_morning:6; WAW/DO/wkd_morning:3; WAW/PU/wkd_morning:3
+Fri,6,Fri 06:00Z,30,CDG/DO/wkd_morning:3; CPT/PU/wkd_morning:2; JNB/PU/wkd_morning:5; LGW/PU/wkd_morning:3; LHR/PU/wkd_morning:9; LTN/PU/wkd_morning:3; ORY/DO/wkd_morning:2; STN/PU/wkd_morning:1; WAW/DO/wkd_morning:2
+Fri,7,Fri 07:00Z,30,CDG/DO/wkd_morning:3; CPT/PU/wkd_morning:5; JNB/PU/wkd_morning:5; LGW/PU/wkd_morning:4; LHR/PU/wkd_morning:3; LTN/PU/wkd_morning:1; ORY/DO/wkd_morning:5; STN/PU/wkd_morning:1; WAW/PU/wkd_morning:3
+Fri,8,Fri 08:00Z,30,CDG/DO/wkd_morning:6; CPT/PU/wkd_morning:8; JNB/PU/wkd_morning:9; ORY/DO/wkd_morning:5; WAW/DO/wkd_morning:1; WAW/PU/wkd_morning:1
+Fri,9,Fri 09:00Z,30,CDG/DO/wkd_morning:3; CPT/PU/wkd_morning:6; JNB/PU/wkd_morning:6; ORY/DO/wkd_morning:5; WAW/DO/wkd_morning:6; WAW/PU/wkd_morning:4
+Fri,10,Fri 10:00Z,30,CDG/DO/wkd_day:6; CPT/PU/wkd_day:8; JNB/PU/wkd_day:6; ORY/DO/wkd_day:6; WAW/DO/wkd_day:3; WAW/PU/wkd_day:1
+Fri,11,Fri 11:00Z,30,CDG/DO/wkd_day:1; JNB/PU/wkd_day:1; LGW/PU/wkd_day:7; LHR/PU/wkd_day:8; LTN/PU/wkd_day:7; STN/PU/wkd_day:6
+Fri,12,Fri 12:00Z,30,CPT/PU/wkd_day:1; LGW/PU/wkd_day:10; LHR/PU/wkd_day:6; LTN/PU/wkd_day:8; ORY/DO/wkd_day:1; STN/PU/wkd_day:4
+Fri,13,Fri 13:00Z,30,JNB/PU/wkd_day:2; LGW/PU/wkd_day:4; LHR/PU/wkd_day:8; LTN/PU/wkd_day:8; STN/PU/wkd_day:8
+Fri,14,Fri 14:00Z,30,JNB/PU/wkd_day:1; LGW/PU/wkd_day:9; LHR/PU/wkd_day:8; LTN/PU/wkd_day:5; ORY/DO/wkd_day:3; STN/PU/wkd_day:4
+Fri,15,Fri 15:00Z,30,CDG/DO/wkd_day:3; CPT/PU/wkd_day:2; JNB/PU/wkd_day:6; LGW/PU/wkd_day:5; LHR/PU/wkd_day:3; LTN/PU/wkd_day:4; ORY/DO/wkd_day:3; STN/PU/wkd_day:4
+Fri,16,Fri 16:00Z,30,CDG/DO/wkd_evening:5; CPT/PU/wkd_evening:11; JNB/PU/wkd_evening:10; ORY/DO/wkd_evening:1; WAW/PU/wkd_evening:3
+Fri,17,Fri 17:00Z,30,LGW/PU/wkd_evening:4; LHR/PU/wkd_evening:9; LTN/PU/wkd_evening:9; STN/PU/wkd_evening:8
+Fri,18,Fri 18:00Z,30,LGW/PU/wkd_evening:3; LHR/PU/wkd_evening:13; LTN/PU/wkd_evening:5; STN/PU/wkd_evening:9
+Fri,19,Fri 19:00Z,30,LGW/PU/wkd_evening:5; LHR/PU/wkd_evening:13; LTN/PU/wkd_evening:6; STN/PU/wkd_evening:6
+Fri,20,Fri 20:00Z,30,LGW/PU/wkd_late_evening:10; LTN/PU/wkd_late_evening:10; STN/PU/wkd_late_evening:10
+Fri,21,Fri 21:00Z,30,LGW/PU/wkd_late_evening:10; LTN/PU/wkd_late_evening:10; STN/PU/wkd_late_evening:10
+Fri,22,Fri 22:00Z,30,LGW/PU/wkd_late_evening:11; LTN/PU/wkd_late_evening:9; STN/PU/wkd_late_evening:10
+Sat,0,Sat 00:00Z,30,CDG/DO/wked_night:13; ORY/DO/wked_night:11; WAW/DO/wked_night:6
+Sat,1,Sat 01:00Z,10,CDG/DO/wked_night:1; WAW/DO/wked_night:9
+Sat,5,Sat 05:00Z,30,CDG/DO/wked_morning:5; CPT/PU/wked_morning:1; JNB/PU/wked_morning:18; ORY/DO/wked_morning:6
+Sat,6,Sat 06:00Z,30,CDG/DO/wked_morning:9; CPT/PU/wked_morning:3; JNB/PU/wked_morning:2; LHR/PU/wked_morning:7; ORY/DO/wked_morning:9
+Sat,7,Sat 07:00Z,30,CDG/DO/wked_morning:10; CPT/PU/wked_morning:6; JNB/PU/wked_morning:4; ORY/DO/wked_morning:10
+Sat,8,Sat 08:00Z,30,CDG/DO/wked_morning:9; CPT/PU/wked_morning:5; JNB/PU/wked_morning:4; ORY/DO/wked_morning:10; WAW/DO/wked_morning:2
+Sat,9,Sat 09:00Z,30,CDG/DO/wked_morning:8; CPT/PU/wked_morning:3; JNB/PU/wked_morning:5; ORY/DO/wked_morning:6; WAW/DO/wked_morning:7; WAW/PU/wked_morning:1
+Sat,10,Sat 10:00Z,30,CDG/DO/wked_day:1; CPT/PU/wked_day:3; JNB/PU/wked_day:24; LHR/PU/wked_morning:2
+Sat,11,Sat 11:00Z,30,JNB/PU/wked_day:1; LGW/PU/wked_day:1; LHR/PU/wked_day:19; LTN/PU/wked_day:7; ORY/DO/wked_day:1; STN/PU/wked_day:1
+Sat,12,Sat 12:00Z,30,JNB/PU/wked_day:3; LGW/PU/wked_day:6; LHR/PU/wked_day:3; LTN/PU/wked_day:13; STN/PU/wked_day:5
+Sat,13,Sat 13:00Z,30,CDG/DO/wked_day:4; CPT/PU/wked_day:3; JNB/PU/wked_day:12; LGW/PU/wked_day:4; LTN/PU/wked_day:4; ORY/DO/wked_day:3
+Sat,14,Sat 14:00Z,30,CDG/DO/wked_day:3; CPT/PU/wked_day:8; JNB/PU/wked_day:8; LGW/PU/wked_day:1; LTN/PU/wked_day:4; ORY/DO/wked_day:5; WAW/PU/wked_day:1
+Sat,15,Sat 15:00Z,30,CDG/DO/wked_day:5; CPT/PU/wked_day:6; JNB/PU/wked_day:10; LGW/PU/wked_day:1; LTN/PU/wked_day:3; ORY/DO/wked_day:5
+Sat,16,Sat 16:00Z,8,CPT/PU/wrek_evening:2; JNB/PU/wrek_evening:3; LGW/PU/wked_day:1; WAW/PU/wrek_evening:2
+Sat,17,Sat 17:00Z,8,LGW/PU/wrek_evening:1; LHR/PU/wrek_evening:3; LTN/PU/wrek_evening:3; STN/PU/wrek_evening:1
+Sat,20,Sat 20:00Z,30,LGW/PU/wrek_late_evening:11; LTN/PU/wrek_late_evening:12; STN/PU/wrek_late_evening:7
+Sat,21,Sat 21:00Z,30,LGW/PU/wrek_late_evening:19; LTN/PU/wrek_late_evening:6; STN/PU/wrek_late_evening:5
+Sat,22,Sat 22:00Z,12,LGW/PU/wrek_late_evening:5; LTN/PU/wrek_late_evening:4; STN/PU/wrek_late_evening:3
+Sun,5,Sun 05:00Z,1,WAW/PU/wked_morning:1
+Sun,10,Sun 10:00Z,30,CDG/DO/wked_day:4; CPT/PU/wked_day:11; JNB/PU/wked_day:6; ORY/DO/wked_day:7; WAW/PU/wked_day:2
+Sun,11,Sun 11:00Z,30,CDG/DO/wked_day:4; CPT/PU/wked_day:6; JNB/PU/wked_day:6; ORY/DO/wked_day:6; WAW/DO/wked_day:1; WAW/PU/wked_day:7
+Sun,12,Sun 12:00Z,26,CDG/DO/wked_day:5; CPT/PU/wked_day:6; JNB/PU/wked_day:6; ORY/DO/wked_day:3; WAW/DO/wked_day:1; WAW/PU/wked_day:5

@@ -1,0 +1,13 @@
+{
+  "// what this does": "Makes VS Code's Run (▶) button use this asset's own .venv — no terminal, no setup.",
+  "python.defaultInterpreterPath": "/nfs/nfs_dsw_cloud_phx_prod/anton.tereshchuk/Claude Code/assets/bpo-npi-observation-planner/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": [
+    "./scripts"
+  ],
+  "files.exclude": {
+    "**/.venv": true,
+    "**/__pycache__": true,
+    "**/.ipynb_checkpoints": true
+  }
+}

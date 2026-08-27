@@ -1,0 +1,11 @@
+airport,trip_type,scenario,n_routes
+LHR,PU,light,349
+LGW,PU,light,187
+STN,PU,light,159
+LTN,PU,light,182
+JNB,PU,mid,90
+WAW,PU,mid,15
+CPT,PU,mid,46
+CDG,DO,mid,48
+ORY,DO,mid,48
+WAW,DO,mid,19

@@ -1,0 +1,7 @@
+# Pinned runtime dependencies for bpo-npi-observation-planner.
+# pandas   — CSV/dataframe handling in build/observations/recompute
+# h3       — airport parent-hex + 1-ring exclusion (matches how routes.json was built)
+# The Google Sheets publish + fresh obs pull shell out to `aifx mcp call`
+# (queryrunner-mcp / google-mcp), which the DSW environment provides — no python dep.
+pandas==2.2.2
+h3==4.1.0

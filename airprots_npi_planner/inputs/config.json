@@ -1,0 +1,20 @@
+{
+  "_comment": "Run parameters for bpo-npi-observation-planner. CLI flags override.",
+  "lookback_weeks": 4,
+  "hex_size": 7,
+  "min_obs": 1,
+  "geocode": true,
+  "gsheet_id": "1HCJUHFSUri0fM8qJrwf0AIwKeSVuAZQ1I0h8cTCJeao",
+  "_gsheet_id_help": "Target Google Sheet id for the BPO hand-off. Leave empty to force --no-publish. The historical SNPE/WAW hand-off sheet was 19UAkSYujxgFDz39IBMexUFXKs_nxU5yAmGFKONDqivo.",
+  "routes_dir": "config/routes_2026-05-12",
+  "demand_lut_dir": "config/demand_lut_2026-05-12",
+
+  "_regen_help": "Step 0 route generation. regenerate_routes=false consumes the vendored snapshot (fast, default). Set true to rebuild the coverage curves from the vendored demand CSV first. regenerate_scope: 'targets' rebuilds only the airports in targets.csv (fast); 'all' rebuilds every airport in the demand CSV. Snapshots are written to config/routes_<demand_snapshot_date>/ and config/demand_lut_<demand_snapshot_date>/.",
+  "regenerate_routes": false,
+  "regenerate_scope": "targets",
+  "_regenerate_full_exclusion_help": "false (default) reproduces the shipped curves exactly: routes use the 15-entry route-gen coord table (config/airport_coords_routegen.json), so ~178 airports keep no airport-terminal hex exclusion, matching the published snapshot. Set true to apply the complete airport-terminal exclusion (config/airport_coords.json) to routes too — the corrected refresh, which CHANGES ~178 airports' curves.",
+  "regenerate_full_exclusion": false,
+  "demand_csv": "config/demand_2026-05-12/emea_demand_full.csv",
+  "demand_obs_csv": "config/demand_2026-05-12/emea_observations_bpo_mapped.csv",
+  "demand_snapshot_date": "2026-05-12"
+}
